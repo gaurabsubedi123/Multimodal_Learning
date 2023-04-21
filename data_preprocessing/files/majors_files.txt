@@ -1,0 +1,3955 @@
+502.xml, normal
+121.xml, normal
+1799.xml, normal
+3817.xml, normal
+3553.xml, normal
+3431.xml, normal
+1707.xml, normal
+1420.xml, Calcinosis/lung/hilum/left
+211.xml, normal
+2297.xml, Spondylosis/thoracic vertebrae
+600.xml, Calcinosis/lung/hilum/lymph nodes/left
+913.xml, normal
+1410.xml, normal
+3458.xml, normal
+301.xml, normal
+1547.xml, Epicardial Fat/left/prominent
+1551.xml, normal
+2797.xml, normal
+2195.xml, Lung/hyperdistention/mild
+983.xml, Opacity/lung/middle lobe/right/reticular
+3580.xml, normal
+3073.xml, normal
+1272.xml, Calcified Granuloma/scattered/multiple
+350.xml, Opacity/lung/base/left/patchy
+3696.xml, Granuloma/lung/middle lobe/right
+2864.xml, Opacity/lung/base/right/irregular
+476.xml, Calcinosis/aorta
+2221.xml, Cardiomegaly/mild
+2456.xml, Cardiomegaly/mild
+250.xml, Spine/degenerative/mild
+3824.xml, Opacity/lung/base/bilateral/patchy
+2546.xml, Aorta, Thoracic/tortuous
+3748.xml, Pulmonary Atelectasis/base/left/mild
+688.xml, Opacity/lung/base/left
+837.xml, Calcinosis/lung/hilum/right
+1466.xml, normal
+3642.xml, Thoracic Vertebrae/degenerative/mild
+64.xml, Technical Quality of Image Unsatisfactory 
+2675.xml, Calcinosis/lymph nodes/small
+3078.xml, Pneumonia/lower lobe/right
+2553.xml, Calcified Granuloma/lung/multiple/small
+1664.xml, Cardiomegaly/borderline
+3679.xml, normal
+2415.xml, Cardiomegaly/mild
+3995.xml, Lung/hyperdistention/mild
+3887.xml, Deformity/heart/right
+1046.xml, normal
+1758.xml, Mediastinum/prominent/mild
+2050.xml, Cicatrix/lung/upper lobe/right
+1064.xml, Diaphragm/right/elevated
+903.xml, Thickening/lung/base/bilateral/interstitial
+2072.xml, Calcified Granuloma/lung/upper lobe/left
+373.xml, normal
+3313.xml, Spine/degenerative
+2821.xml, Calcinosis/aorta
+3272.xml, Opacity/lung/lower lobe/bilateral
+2673.xml, Cardiomegaly
+3781.xml, normal
+3719.xml, normal
+235.xml, Implanted Medical Device/left
+3623.xml, Calcinosis/lymph nodes
+2741.xml, normal
+790.xml, Surgical Instruments/abdomen
+367.xml, normal
+504.xml, Opacity/lung/base/left
+199.xml, Opacity/lung/base/left
+324.xml, normal
+2624.xml, Deformity/lumbar vertebrae/anterior/mild
+2820.xml, normal
+3088.xml, Scoliosis/thoracic vertebrae/left
+3426.xml, Spine/degenerative/mild
+254.xml, Osteophyte/thoracic vertebrae/scattered
+2704.xml, Aorta/tortuous
+3515.xml, Calcified Granuloma/lung/lower lobe/left/small
+3652.xml, Calcified Granuloma/lung/hilum/right/multiple
+784.xml, Calcinosis/aorta
+3861.xml, normal
+515.xml, normal
+273.xml, Cardiomegaly/moderate
+3428.xml, Calcinosis/ribs/right/anterior/prominent
+329.xml, Cardiac Shadow/enlarged/borderline
+253.xml, Pneumothorax/left/moderate
+3134.xml, normal
+371.xml, Lung/hyperdistention
+1575.xml, Calcified Granuloma/lung/left
+3776.xml, Calcinosis/lung/hilum/lymph nodes/right
+850.xml, normal
+2855.xml, normal
+736.xml, Hernia, Hiatal/prominent
+52.xml, normal
+3836.xml, normal
+455.xml, Lung/hypoinflation
+3466.xml, Opacity/lung/hilum/streaky
+1983.xml, normal
+3098.xml, normal
+1953.xml, normal
+2905.xml, Catheters, Indwelling
+1207.xml, normal
+3302.xml, Lung/hypoinflation/mild
+3079.xml, Thoracic Vertebrae/degenerative/multiple
+2026.xml, normal
+3497.xml, Calcified Granuloma/bilateral/multiple
+1661.xml, normal
+295.xml, Fractures, Bone/clavicle/left/healed
+1411.xml, Thoracic Vertebrae/degenerative/mild
+2449.xml, Foreign Bodies/spine
+2469.xml, Opacity/thorax/mild
+3451.xml, Calcinosis/lymph nodes
+3648.xml, normal
+2959.xml, normal
+452.xml, Sutures/lung/apex/left
+381.xml, normal
+1172.xml, normal
+3653.xml, Lung/hypoinflation
+1566.xml, normal
+3174.xml, Lung/hyperdistention
+604.xml, Catheters, Indwelling/right
+2273.xml, normal
+2625.xml, normal
+3658.xml, Thickening/pleura/apex/bilateral/round
+2783.xml, Aorta/tortuous
+3024.xml, normal
+1169.xml, Lung/hypoinflation
+2564.xml, normal
+2960.xml, normal
+2165.xml, Lung/hypoinflation
+2840.xml, normal
+3926.xml, Cardiomegaly
+1200.xml, Opacity/lung/hilum/right/small
+459.xml, normal
+3569.xml, Lung/hypoinflation
+2750.xml, Opacity/lung/middle lobe/right/round
+477.xml, normal
+1297.xml, normal
+1770.xml, normal
+547.xml, Thoracic Vertebrae/degenerative
+501.xml, Opacity/lung/posterior/streaky/mild
+2482.xml, Pneumothorax/apex/right
+1141.xml, normal
+976.xml, Lung/hypoinflation
+2889.xml, normal
+3587.xml, normal
+2774.xml, Cardiomegaly/mild
+1281.xml, Spine/degenerative
+3306.xml, Cardiomegaly/mild
+669.xml, Cardiomegaly
+2212.xml, normal
+3105.xml, normal
+3991.xml, Spondylosis/thoracic vertebrae
+3585.xml, normal
+2936.xml, Cardiomegaly/mild
+3048.xml, normal
+779.xml, normal
+933.xml, No Indexing
+1994.xml, normal
+2523.xml, normal
+3430.xml, Cardiomegaly/moderate
+2149.xml, Calcinosis/aorta, thoracic
+2742.xml, Granulomatous Disease
+17.xml, normal
+1780.xml, normal
+1640.xml, Nodule/lung/upper lobe/right/small
+417.xml, Calcified Granuloma
+256.xml, Sutures/lung/upper lobe/left
+571.xml, normal
+2183.xml, Cardiomegaly/moderate
+1583.xml, Scoliosis/mild
+486.xml, Cicatrix/lung/middle lobe/right
+1265.xml, Density/round
+414.xml, Scoliosis/lumbar vertebrae/right/mild
+735.xml, normal
+3886.xml, Calcinosis/abdomen/left/severe
+3120.xml, Fractures, Bone/ribs/left/posterior/multiple
+1202.xml, Cardiomegaly
+262.xml, normal
+3614.xml, Pulmonary Atelectasis/base/bilateral
+1545.xml, normal
+709.xml, Calcinosis/aorta
+1540.xml, normal
+3778.xml, normal
+3081.xml, Aorta/tortuous
+2223.xml, normal
+608.xml, Fractures, Bone/ribs/right/healed
+1587.xml, normal
+2517.xml, normal
+1901.xml, Surgical Instruments/abdomen
+1241.xml, Scoliosis/thoracic vertebrae
+1227.xml, Implanted Medical Device/right
+2638.xml, normal
+1513.xml, Opacity/lung/base/right/streaky
+2147.xml, Spondylosis/mild
+2902.xml, normal
+1073.xml, Lung/hyperdistention
+1861.xml, normal
+2284.xml, Lung/hyperdistention
+1454.xml, normal
+2305.xml, Scoliosis/lumbar vertebrae/mild
+357.xml, Heart/right/obscured
+3537.xml, No Indexing
+3101.xml, Spine/degenerative
+2089.xml, normal
+1367.xml, normal
+2511.xml, Sutures/lung/upper lobe/left
+2130.xml, Cardiomegaly
+619.xml, Aorta/tortuous
+3634.xml, normal
+392.xml, Catheters, Indwelling
+1066.xml, normal
+3822.xml, Granuloma/lung/multiple
+1652.xml, Scoliosis/thoracic vertebrae/right
+577.xml, normal
+1614.xml, Cardiomegaly/borderline
+609.xml, normal
+598.xml, Osteophyte/thoracic vertebrae/degenerative
+2597.xml, Lung/hilum/lymph nodes/bilateral/enlarged
+3485.xml, Lung/hyperdistention
+11.xml, normal
+1922.xml, normal
+2500.xml, Aorta, Thoracic/tortuous
+3342.xml, Infiltrate/lung/lower lobe/bilateral/interstitial/patchy
+275.xml, normal
+2843.xml, Density/right/paratracheal
+1101.xml, Spine/degenerative
+583.xml, Calcinosis/lung/hilum/lymph nodes/right
+1100.xml, Cardiomegaly
+1320.xml, Calcified Granuloma/lung/upper lobe/left
+1795.xml, Cardiomegaly/moderate
+2015.xml, normal
+2816.xml, Calcified Granuloma/lung/lingula
+2192.xml, Thoracic Vertebrae/degenerative/mild
+2541.xml, normal
+1649.xml, Pleural Effusion/bilateral/focal/moderate
+339.xml, normal
+3931.xml, normal
+2690.xml, Calcified Granuloma/lung/lingula
+3460.xml, normal
+1779.xml, normal
+769.xml, Thoracic Vertebrae/degenerative/mild
+2515.xml, normal
+1175.xml, normal
+2463.xml, Opacity/lung/interstitial/mild
+2185.xml, Lung/hypoinflation
+1368.xml, normal
+2081.xml, normal
+428.xml, normal
+1003.xml, Density/retrocardiac
+2687.xml, Surgical Instruments/breast/left
+3772.xml, Calcified Granuloma
+1148.xml, normal
+3296.xml, Calcinosis/lung/hilum/lymph nodes/left
+291.xml, normal
+1715.xml, Nodule/lung/lower lobe/right
+2571.xml, Spine/degenerative
+2853.xml, Implanted Medical Device/left
+825.xml, Airspace Disease/lung/bilateral/patchy
+283.xml, normal
+3444.xml, Technical Quality of Image Unsatisfactory 
+2664.xml, Opacity/lung/base/left/streaky/mild
+1342.xml, Lung/hyperdistention/mild
+3036.xml, Technical Quality of Image Unsatisfactory 
+977.xml, normal
+2871.xml, normal
+3917.xml, Cardiomegaly/mild
+3071.xml, normal
+462.xml, Cardiomegaly/mild
+1401.xml, Infiltrate/lung/upper lobe/bilateral
+3223.xml, normal
+1776.xml, Thoracic vertebrae/degenerative/mild
+1736.xml, Lung/hypoinflation/mild
+818.xml, Consolidation/lung/upper lobe/right/focal
+1409.xml, normal
+2277.xml, normal
+3372.xml, Cardiomegaly
+932.xml, normal
+3934.xml, Lung Diseases, Interstitial/bilateral/mild
+3683.xml, Medical Device/breast/bilateral
+2420.xml, Aorta/tortuous
+300.xml, Lung/hyperdistention/mild
+1848.xml, Granulomatous Disease
+2823.xml, Implanted Medical Device/left
+2304.xml, normal
+431.xml, Osteophyte/thoracic vertebrae/multiple
+2079.xml, Calcified Granuloma/lung/hilum/right/multiple
+2767.xml, Spine/degenerative/mild
+2064.xml, Implanted Medical Device/left
+672.xml, Pulmonary Congestion
+3257.xml, Spondylosis/thoracic vertebrae
+3333.xml, normal
+3856.xml, normal
+2091.xml, Spondylosis/thoracic vertebrae
+2956.xml, normal
+2135.xml, Costophrenic Angle/posterior/blunted/mild
+3722.xml, normal
+2468.xml, Calcinosis/aorta
+507.xml, No Indexing
+1924.xml, Technical Quality of Image Unsatisfactory 
+3812.xml, Atherosclerosis/aorta
+98.xml, Lung/hypoinflation
+870.xml, No Indexing
+2138.xml, Aorta, Thoracic/tortuous
+814.xml, Calcified Granuloma/lung/base/left
+3068.xml, Lung/hypoinflation
+3534.xml, Mediastinum/right/paratracheal/prominent
+2891.xml, Hernia, Hiatal/large
+3337.xml, Calcinosis/pleura/base/right
+147.xml, normal
+12.xml, normal
+1150.xml, No Indexing
+2120.xml, normal
+3866.xml, Airspace Disease/lung/middle lobe/right/patchy
+1988.xml, Lung/hypoinflation
+440.xml, Emphysema
+1700.xml, Density/thorax/left
+2258.xml, Markings/lung/middle lobe/bilateral/interstitial/prominent
+382.xml, Bullous Emphysema/lung/upper lobe/bilateral/severe
+2219.xml, Granuloma/lung/hilum/left
+3899.xml, Lung/hyperdistention/mild
+1841.xml, No Indexing
+1262.xml, Lung/hypoinflation
+400.xml, Calcified Granuloma/lung/base/right/small
+292.xml, Airspace Disease/lung/middle lobe/right/focal
+2964.xml, normal
+229.xml, Calcinosis/mediastinum
+1243.xml, Cardiac Shadow/enlarged
+3115.xml, normal
+3796.xml, normal
+3164.xml, Stents/abdomen
+1853.xml, normal
+2224.xml, Granuloma/scattered/multiple
+3469.xml, Lung/hyperdistention
+3669.xml, Emphysema
+671.xml, Calcinosis/lung/hilum
+520.xml, Fractures, Bone/ribs/healed
+3030.xml, normal
+2788.xml, normal
+76.xml, Cicatrix/lung/lingula
+2148.xml, normal
+1261.xml, Cardiomegaly/mild
+1110.xml, Granulomatous Disease
+527.xml, normal
+1590.xml, normal
+1049.xml, normal
+1360.xml, Opacity/lung/base/bilateral
+153.xml, Catheters, Indwelling
+2592.xml, normal
+310.xml, normal
+995.xml, Sutures/sternum
+1326.xml, Catheters, Indwelling/right
+2347.xml, Atherosclerosis/aorta
+938.xml, Granulomatous Disease
+2158.xml, Markings/lung/interstitial/diffuse
+595.xml, normal
+3151.xml, Airspace Disease/lung/lingula
+2397.xml, normal
+2071.xml, Density/lung/middle lobe/right/round
+2868.xml, Spondylosis/thoracic vertebrae/mild
+2731.xml, normal
+1946.xml, Medical Device
+2331.xml, Aorta/tortuous
+1016.xml, Opacity/pleura/right
+87.xml, normal
+2217.xml, Cardiomegaly/borderline
+1382.xml, normal
+3871.xml, normal
+1805.xml, normal
+1569.xml, Arthritis
+2377.xml, normal
+1263.xml, normal
+3447.xml, Aorta, Thoracic/tortuous
+3833.xml, Costophrenic Angle/right/blunted
+1038.xml, normal
+2720.xml, normal
+3528.xml, normal
+3763.xml, normal
+2243.xml, Calcified Granuloma/lung/lower lobe/left
+207.xml, normal
+369.xml, Pulmonary Congestion
+413.xml, normal
+2914.xml, Cicatrix/lung/middle lobe/right/small
+296.xml, Hernia, Hiatal
+2276.xml, Lung/hypoinflation
+1957.xml, Pleural Effusion/left/small
+3387.xml, Opacity/lung/base/right
+2394.xml, normal
+2030.xml, Lung/hyperdistention
+2402.xml, Lung/hypoinflation
+2250.xml, Cicatrix/lung/lingula/mild
+2270.xml, Scoliosis/thoracic vertebrae/right
+2368.xml, Thoracic Vertebrae/degenerative/mild
+1785.xml, Calcified Granuloma/paratracheal
+2159.xml, normal
+119.xml, normal
+395.xml, Calcinosis/lung/hilum/lymph nodes
+416.xml, normal
+3095.xml, Cardiomegaly/mild
+2337.xml, Density/paratracheal
+2214.xml, normal
+1361.xml, Cardiomegaly/mild
+2360.xml, normal
+3987.xml, Thoracic Vertebrae/scattered/degenerative
+1093.xml, normal
+179.xml, No Indexing
+1885.xml, normal
+342.xml, Cardiomegaly/mild
+1477.xml, normal
+82.xml, Surgical Instruments/left
+2923.xml, normal
+456.xml, Granulomatous Disease
+1316.xml, normal
+2794.xml, Lung/hyperdistention
+1616.xml, normal
+1224.xml, No Indexing
+3043.xml, Costophrenic Angle/right/blunted/mild
+208.xml, normal
+3749.xml, normal
+2516.xml, Lung/hyperdistention/mild
+2213.xml, Nodule/lung/bilateral/multiple
+1400.xml, normal
+341.xml, normal
+2580.xml, Cicatrix/lung/upper lobe/right
+2359.xml, Cardiac Shadow/enlarged/moderate
+3061.xml, Opacity/lung/base/right
+1469.xml, normal
+1911.xml, normal
+1022.xml, Nodule/lung/upper lobe/right/small
+2102.xml, Aorta/tortuous
+45.xml, Cardiomegaly
+3976.xml, normal
+316.xml, Granuloma/lung/apex/right
+2310.xml, normal
+1884.xml, Spine/degenerative
+1137.xml, normal
+3209.xml, normal
+641.xml, Scoliosis/right/mild
+2577.xml, Opacity/lung
+171.xml, normal
+1757.xml, normal
+246.xml, normal
+860.xml, Markings/lung/interstitial/chronic
+1534.xml, Atherosclerosis/aorta
+2044.xml, Lung/hypoinflation
+1935.xml, Cardiomegaly/borderline
+3347.xml, Implanted Medical Device
+889.xml, normal
+1365.xml, Fractures, Bone/ribs/right/healed
+2058.xml, Lung/hypoinflation/mild
+354.xml, normal
+1107.xml, Opacity/lung/upper lobe/left/focal/small
+2097.xml, normal
+2993.xml, normal
+3455.xml, Pulmonary Congestion
+2779.xml, Scoliosis/lumbar vertebrae
+804.xml, Lung/hypoinflation
+1234.xml, Cardiac Shadow/enlarged
+2296.xml, Hernia, Hiatal
+1829.xml, Pleural Effusion/bilateral/posterior/mild
+508.xml, normal
+1916.xml, Costophrenic Angle/left/blunted
+2920.xml, normal
+3437.xml, Cicatrix/pleura/apex/bilateral/mild
+3670.xml, Thickening/pleura/apex/bilateral/mild
+1918.xml, Opacity/lung/hilum/left/round
+1266.xml, Calcified Granuloma/multiple
+146.xml, Technical Quality of Image Unsatisfactory 
+489.xml, Granuloma/multiple
+1690.xml, normal
+539.xml, normal
+648.xml, Calcified Granuloma/lung/lower lobe/right
+2348.xml, Pleural Effusion/right/moderate
+289.xml, Catheters, Indwelling
+376.xml, No Indexing
+2708.xml, Calcinosis/mediastinum/lymph nodes
+3152.xml, Lung/hyperdistention
+2971.xml, normal
+115.xml, Lung/hyperdistention
+3717.xml, Lung/hypoinflation
+2859.xml, Opacity/lung/upper lobe/left/round
+2229.xml, Surgical Instruments/abdomen/right
+3185.xml, normal
+271.xml, normal
+1550.xml, normal
+686.xml, Cardiomegaly
+1112.xml, Mediastinum/prominent
+1418.xml, normal
+3140.xml, Opacity/lung/lower lobe/right/streaky
+2054.xml, Opacity/lung/hilum/pulmonary alveoli/left
+1293.xml, normal
+2572.xml, normal
+188.xml, Pleural Effusion/left/moderate
+2386.xml, Calcinosis/lung/lingula
+2646.xml, Osteophyte/thoracic vertebrae/right/prominent/multiple
+237.xml, Calcified Granuloma/lung/hilum/right/multiple
+2654.xml, No Indexing
+2389.xml, normal
+2416.xml, Cardiomegaly/mild
+1557.xml, Cardiac Shadow/enlarged/mild
+2065.xml, Mastectomy/right
+3780.xml, Density/costophrenic angle/left/round/small
+2865.xml, Implanted Medical Device/heart/right
+1526.xml, Technical Quality of Image Unsatisfactory 
+3802.xml, Aorta/tortuous
+1892.xml, Calcified Granuloma/lung/lower lobe/right
+1932.xml, normal
+2925.xml, normal
+2018.xml, Lung/hyperdistention
+3225.xml, normal
+1239.xml, normal
+1962.xml, Granuloma/lung/lower lobe/right
+2655.xml, normal
+559.xml, normal
+2539.xml, normal
+3990.xml, Infiltrate/lung/upper lobe/right/round
+834.xml, Spine/degenerative/mild
+3685.xml, Calcinosis/aorta, thoracic
+3236.xml, normal
+679.xml, No Indexing
+2070.xml, Markings/lung/base/bilateral/interstitial/prominent/mild
+2134.xml, Lung/hyperdistention/mild
+3265.xml, normal
+3509.xml, Pleural Effusion/right/small
+1930.xml, Lung/hypoinflation/mild
+2413.xml, normal
+1842.xml, Nodule/lung/middle lobe/right
+10.xml, Calcified Granuloma/lung/upper lobe/right
+627.xml, Cardiomegaly
+85.xml, Calcified Granuloma/scattered
+3482.xml, Emphysema/severe
+1903.xml, normal
+3757.xml, Aorta, Thoracic/tortuous/mild
+572.xml, normal
+3858.xml, Aorta, Thoracic/tortuous/mild
+874.xml, Lung/hyperdistention/mild
+2344.xml, Lung/hypoinflation/mild
+1188.xml, normal
+1538.xml, Heart Ventricles/left/prominent
+664.xml, Foreign Bodies/right
+719.xml, normal
+1395.xml, normal
+1973.xml, Atherosclerosis/aorta, thoracic
+1721.xml, normal
+1321.xml, Pulmonary Fibrosis/bilateral/interstitial
+1752.xml, Opacity/lung/hilum/right
+2131.xml, normal
+3362.xml, normal
+2109.xml, Lung/hypoinflation
+1519.xml, Lung/hypoinflation/mild
+584.xml, normal
+1801.xml, Cardiomegaly/mild
+1927.xml, Granulomatous Disease
+1459.xml, Calcified Granuloma/lung/base/right
+1959.xml, Granulomatous Disease
+3277.xml, Calcinosis/lung/hilum/lymph nodes/left
+2806.xml, normal
+632.xml, normal
+1638.xml, Technical Quality of Image Unsatisfactory 
+2574.xml, Calcified Granuloma/lung/middle lobe/right
+855.xml, Lung/hyperdistention
+1775.xml, normal
+1505.xml, Opacity/mediastinum/base
+3566.xml, Lung/hypoinflation
+3601.xml, Hernia, Hiatal/large
+1755.xml, Diaphragm/right/elevated/mild
+3843.xml, Catheters, Indwelling/right
+3336.xml, Fractures, Bone/ribs/left/multiple
+2182.xml, normal
+2614.xml, Opacity/right/paratracheal/prominent
+60.xml, Hernia, Hiatal
+1978.xml, Surgical Instruments/abdomen
+568.xml, Aorta/tortuous
+2730.xml, normal
+2398.xml, Technical Quality of Image Unsatisfactory 
+2448.xml, Pneumothorax/right
+1818.xml, Lung/hypoinflation/severe
+293.xml, Surgical Instruments/mediastinum
+1804.xml, Catheters, Indwelling/right
+2184.xml, Cardiomegaly/mild
+699.xml, Cardiomegaly
+2060.xml, Lung/hilum/left/prominent
+3344.xml, Opacity/thoracic vertebrae
+623.xml, Atherosclerosis/aorta
+1082.xml, Cardiomegaly
+3443.xml, normal
+822.xml, Lung/hyperdistention
+1255.xml, Tube, Inserted/thorax/right
+1765.xml, Calcinosis/lung/lower lobe/left/round
+2674.xml, normal
+2844.xml, Fractures, Bone/ribs/left/multiple/healed
+2778.xml, Catheters, Indwelling/right
+2982.xml, Cicatrix/lung/lingula
+865.xml, normal
+315.xml, Spinal Fusion/thoracic vertebrae
+857.xml, normal
+2329.xml, normal
+1945.xml, Scoliosis/severe
+1274.xml, normal
+3701.xml, normal
+1087.xml, Calcified Granuloma/lung/upper lobe/left
+1481.xml, normal
+3684.xml, Scoliosis/thoracic vertebrae/right/mild
+1597.xml, normal
+1348.xml, Lung/hypoinflation
+2537.xml, Opacity/lung/base/right/patchy
+3727.xml, Lung/hypoinflation
+2262.xml, Opacity/lung/base/right
+2857.xml, Surgical Instruments/mediastinum
+2417.xml, Calcified Granuloma/lung/lower lobe/left
+294.xml, Emphysema
+603.xml, Calcinosis/lung/hilum/right
+3086.xml, Calcified Granuloma/lung/bilateral/multiple
+1205.xml, normal
+3210.xml, normal
+58.xml, Thoracic Vertebrae/degenerative
+968.xml, normal
+272.xml, normal
+1195.xml, Stents/coronary vessels
+3740.xml, Opacity/lung/lower lobe/right/diffuse
+3130.xml, Cardiomegaly
+3597.xml, Catheters, Indwelling/left
+1461.xml, normal
+1296.xml, normal
+1470.xml, normal
+770.xml, normal
+1250.xml, Calcified Granuloma/lung/hilum/bilateral/multiple/large
+1259.xml, normal
+597.xml, Opacity/lung/lower lobe/bilateral
+3077.xml, Lymph nodes/left/enlarged
+722.xml, normal
+1403.xml, Pulmonary Atelectasis/base/bilateral/mild
+2266.xml, Pulmonary Atelectasis/middle lobe/right/focal
+2092.xml, Opacity/lung/lower lobe/right/posterior/round
+3974.xml, Lung/hyperdistention
+1915.xml, normal
+393.xml, normal
+2681.xml, Foreign Bodies/thorax/left/small
+3883.xml, normal
+2334.xml, Thoracic Vertebrae/scattered/degenerative
+3777.xml, Lung/hypoinflation
+1415.xml, normal
+3929.xml, Implanted Medical Device/thorax/left
+3021.xml, normal
+63.xml, Diaphragm/posterior/flattened
+1517.xml, normal
+1645.xml, Opacity/lung/base/left/chronic
+1607.xml, Foreign Bodies/clavicle/left
+661.xml, Medical Device/spine
+2543.xml, Cardiomegaly
+258.xml, Lung/hyperdistention
+3064.xml, Airspace Disease/lung/lower lobe/right/patchy
+1023.xml, No Indexing
+364.xml, normal
+3250.xml, Aorta/tortuous
+2863.xml, normal
+2253.xml, Lung/hyperdistention
+2045.xml, Aorta, Thoracic/tortuous/mild
+1453.xml, Lung/hypoinflation
+200.xml, normal
+1060.xml, Spondylosis/thoracic vertebrae
+2035.xml, Lung/hyperdistention
+3092.xml, Scoliosis/thoracic vertebrae/left
+499.xml, normal
+2573.xml, normal
+2727.xml, Density/thorax/round/multiple
+2765.xml, normal
+1679.xml, normal
+436.xml, Calcinosis/aorta
+698.xml, Osteophyte/thoracic vertebrae/multiple
+2897.xml, No Indexing
+358.xml, normal
+3690.xml, Cardiomegaly
+3728.xml, normal
+1840.xml, Opacity/lung/hilum/left
+3325.xml, normal
+2660.xml, normal
+1199.xml, normal
+3383.xml, Calcified Granuloma/lung/middle lobe/right
+1167.xml, Lung/hyperdistention
+2291.xml, Foreign Bodies/abdomen
+1693.xml, Lung/hypoinflation
+41.xml, Opacity/lung/bilateral/interstitial/diffuse
+3058.xml, Opacity/lung/lingula
+587.xml, Opacity/lung/lower lobe/bilateral
+1373.xml, Atherosclerosis/aorta
+1796.xml, normal
+3171.xml, No Indexing
+947.xml, normal
+1598.xml, normal
+3228.xml, Cicatrix/lung/apex/bilateral
+1375.xml, Cardiomegaly
+496.xml, normal
+2860.xml, Thoracic Vertebrae/scattered/degenerative
+80.xml, normal
+2169.xml, Lung/hyperdistention
+1997.xml, normal
+424.xml, Foreign Bodies
+2800.xml, Implanted Medical Device
+3513.xml, normal
+3967.xml, Spine/degenerative/mild
+2878.xml, normal
+1937.xml, normal
+331.xml, normal
+3082.xml, Cardiomegaly
+2686.xml, normal
+2598.xml, Lung/hypoinflation
+1849.xml, Calcified Granuloma/lung/base/right
+3256.xml, Cardiomegaly/mild
+2132.xml, Granuloma/lung/lower lobe/left
+70.xml, Granulomatous Disease
+2170.xml, normal
+1686.xml, Calcinosis/aorta/lymph nodes
+971.xml, normal
+265.xml, normal
+703.xml, Lung/hyperdistention
+3287.xml, Density/lung/middle lobe/right/round
+2172.xml, Thickening/pleura/apex/bilateral/round
+2748.xml, normal
+2957.xml, Cardiomegaly/mild
+1543.xml, Hernia, Hiatal/large
+345.xml, normal
+1950.xml, normal
+708.xml, normal
+1021.xml, Pneumothorax/right
+2761.xml, Opacity/lung/upper lobe/right/posterior/patchy/mild
+3956.xml, Lung/hypoinflation
+309.xml, normal
+2479.xml, Catheters, Indwelling/right
+3951.xml, Opacity/lung/apex/right
+145.xml, Costophrenic Angle/right/blunted
+2986.xml, Scoliosis/thoracic vertebrae/right/mild
+1744.xml, normal
+176.xml, normal
+1596.xml, Calcified Granuloma/lung/lingula
+883.xml, normal
+1334.xml, normal
+2777.xml, Cicatrix/lung/base/left/mild
+1601.xml, normal
+3775.xml, normal
+2428.xml, Lung/hyperdistention/mild
+3944.xml, Catheters, Indwelling/right
+26.xml, Spondylosis/thoracic vertebrae
+1434.xml, normal
+3180.xml, normal
+803.xml, Implanted Medical Device/right
+3214.xml, Cardiomegaly
+1155.xml, Scoliosis
+3207.xml, Cardiac Shadow/enlarged
+141.xml, normal
+2029.xml, normal
+175.xml, Cardiomegaly/mild
+1063.xml, Opacity/lung/base/left/mild
+3806.xml, Scoliosis/thoracic vertebrae/moderate
+2862.xml, normal
+3413.xml, normal
+799.xml, normal
+143.xml, Granulomatous Disease
+3146.xml, normal
+3753.xml, Pulmonary Atelectasis/base/left/mild
+1162.xml, normal
+233.xml, Density/lung/base/left
+806.xml, Cardiac Shadow/borderline
+3420.xml, normal
+1438.xml, normal
+125.xml, No Indexing
+2972.xml, Lung/hypoinflation
+2049.xml, Lung/hyperdistention
+878.xml, Lung/hyperdistention
+1344.xml, normal
+702.xml, Pleural Effusion/right/large
+1337.xml, Lung/hypoinflation
+1982.xml, Opacity/lung/middle lobe/right
+3407.xml, Calcified Granuloma/multiple
+2924.xml, Calcified Granuloma/lung/upper lobe/left/small
+1764.xml, Fractures, Bone/ribs/left/multiple/healed
+3182.xml, Nodule/lung/hilum/right
+2117.xml, Diaphragm/left/elevated
+2873.xml, normal
+689.xml, Nodule/lung/lower lobe/left/multiple
+1160.xml, Pulmonary Atelectasis/upper lobe/left
+1563.xml, Thoracic Vertebrae/degenerative/mild
+2055.xml, Calcinosis/aorta
+344.xml, normal
+2173.xml, Thoracic Vertebrae/degenerative
+1074.xml, Lung/hypoinflation
+2893.xml, normal
+3087.xml, Cardiomegaly
+1993.xml, Lung/hyperdistention
+3533.xml, Lung/bilateral/hyperdistention/mild
+591.xml, Calcified Granuloma/lung/base/left
+3060.xml, normal
+43.xml, No Indexing
+2225.xml, normal
+150.xml, No Indexing
+2406.xml, Hernia, Hiatal/large
+3125.xml, normal
+2679.xml, Scoliosis/thoracic vertebrae/moderate
+782.xml, Medical Device
+1076.xml, Opacity/thorax/posterior
+33.xml, Surgical Instruments/left
+377.xml, Spine/degenerative
+959.xml, Airspace Disease/lung/lower lobe/right/patchy/mild
+3756.xml, Opacity/lung/base/left
+2680.xml, normal
+1536.xml, normal
+2829.xml, normal
+3173.xml, normal
+370.xml, normal
+71.xml, normal
+783.xml, Calcified Granuloma/lung/upper lobe/left
+534.xml, Cicatrix/lung/upper lobe/hilum/left
+1974.xml, normal
+2645.xml, Surgical Instruments/abdomen/right
+3047.xml, normal
+1576.xml, Hernia, Hiatal/large
+3687.xml, Pulmonary Atelectasis/base/left/patchy/mild
+966.xml, Pulmonary Atelectasis/upper lobe/right
+1865.xml, Calcified Granuloma/lung/upper lobe/right
+3992.xml, Pulmonary Congestion
+3561.xml, normal
+161.xml, Lung/hypoinflation
+3911.xml, normal
+151.xml, No Indexing
+488.xml, Surgical Instruments/lung/hilum/left
+21.xml, Calcified Granuloma/lung/lingula
+3281.xml, Nodule/lung/upper lobe/right
+3319.xml, Thoracic Vertebrae/degenerative/multiple
+1005.xml, normal
+1362.xml, Diaphragm/left/elevated
+2824.xml, Lung/hyperdistention
+1604.xml, Deformity/thoracic vertebrae/right/mild
+2947.xml, normal
+1966.xml, normal
+3821.xml, No Indexing
+1168.xml, normal
+970.xml, normal
+1126.xml, Surgical Instruments/mediastinum
+3440.xml, Scoliosis/thoracic vertebrae/right/mild
+3730.xml, Infiltrate/lung/left/interstitial
+1312.xml, normal
+2112.xml, Catheters, Indwelling/left
+1908.xml, Opacity/lung/upper lobe/bilateral/round
+1139.xml, Cardiomegaly
+2041.xml, normal
+1745.xml, normal
+744.xml, Density/lung/apex/right
+1644.xml, Calcinosis/lymph nodes
+1773.xml, Implanted Medical Device/pulmonary artery
+3328.xml, Cardiomegaly/mild
+3300.xml, Aorta/tortuous
+652.xml, normal
+1666.xml, Cardiac Shadow/enlarged/mild
+1045.xml, Deformity/ribs/right/chronic
+73.xml, Pleural Effusion/bilateral/small
+622.xml, normal
+1581.xml, Nodule/lung/upper lobe/right/multiple
+156.xml, Implanted Medical Device/left
+3705.xml, Atherosclerosis/aorta
+2630.xml, Aorta/tortuous/mild
+3452.xml, normal
+3764.xml, normal
+105.xml, Catheters, Indwelling
+1500.xml, Calcinosis/aorta
+1531.xml, Aorta/tortuous
+3074.xml, Granulomatous Disease
+1323.xml, normal
+3501.xml, normal
+197.xml, Lung/hyperdistention
+332.xml, Opacity/lung/lower lobe/left/streaky
+3801.xml, Surgical Instruments/mediastinum
+86.xml, normal
+3892.xml, Opacity/lung/base/bilateral/patchy
+2455.xml, Mass/lung/upper lobe/right/anterior
+1862.xml, Implanted Medical Device
+3744.xml, normal
+1031.xml, Cardiomegaly/mild
+419.xml, normal
+3424.xml, Calcified Granuloma/lung/lower lobe/left/multiple
+3481.xml, Lung/hyperdistention
+397.xml, Density/lung/base/left/round
+1830.xml, Implanted Medical Device/left
+3813.xml, Opacity/lung/base/left
+2105.xml, Calcified Granuloma/lung/lingula
+2566.xml, normal
+923.xml, Aorta/tortuous
+2226.xml, Fractures, Bone/ribs/healed
+1521.xml, normal
+1650.xml, No Indexing
+2086.xml, normal
+2450.xml, normal
+2260.xml, normal
+3370.xml, normal
+1442.xml, Spondylosis/thoracic vertebrae
+3401.xml, Calcified Granuloma/bilateral/multiple
+2014.xml, Pneumoperitoneum
+1589.xml, Lung/hyperdistention
+1047.xml, normal
+1376.xml, Granulomatous Disease
+1182.xml, normal
+3804.xml, Aorta, Thoracic/tortuous
+1857.xml, Cardiomegaly/mild
+1710.xml, normal
+1631.xml, Opacity/lung/upper lobe/left/round/multiple/small
+49.xml, Thoracic Vertebrae/degenerative
+3525.xml, Foreign Bodies/shoulder/right
+1716.xml, normal
+2457.xml, normal
+3007.xml, Implanted Medical Device
+1103.xml, Calcified Granuloma/lung/hilum/right
+839.xml, normal
+1529.xml, Density/right/paratracheal
+3694.xml, Pneumothorax/apex/left/small
+2739.xml, normal
+2621.xml, normal
+916.xml, Calcinosis
+1189.xml, Granulomatous Disease
+3604.xml, normal
+3542.xml, normal
+3862.xml, Heart Ventricles/left/enlarged
+170.xml, Technical Quality of Image Unsatisfactory 
+210.xml, Surgical Instruments/thorax
+312.xml, No Indexing
+1696.xml, normal
+2715.xml, Nodule/lung/lower lobe/right
+626.xml, normal
+1509.xml, normal
+787.xml, normal
+122.xml, Cicatrix/lung/lingula/mild
+890.xml, Granulomatous Disease
+1286.xml, Cardiomegaly/mild
+3574.xml, normal
+1632.xml, normal
+2391.xml, normal
+3840.xml, Thoracic Vertebrae/degenerative
+1823.xml, Nodule/lung/lower lobe/right
+2424.xml, Arthritis
+251.xml, Lung/hyperdistention/mild
+1850.xml, normal
+3860.xml, normal
+3555.xml, Thoracic Vertebrae/degenerative/multiple
+3636.xml, Lung/hyperdistention/mild
+2153.xml, Diaphragm/left/elevated
+1294.xml, normal
+2006.xml, Cardiomegaly/mild
+3545.xml, Opacity/lung/base/bilateral/interstitial
+3928.xml, Calcinosis/aorta
+19.xml, Aorta, Thoracic/tortuous
+1290.xml, Calcified Granuloma/lung/lower lobe/left
+1149.xml, Calcified Granuloma/lung/hilum/bilateral/multiple
+3797.xml, Opacity/lung/lower lobe/left
+3798.xml, Opacity/lung/lower lobe/right/patchy
+1798.xml, Calcified Granuloma/lung/lingula
+2975.xml, Cardiac Shadow/enlarged/moderate
+3508.xml, Pleural Effusion/left
+2003.xml, Cardiomegaly/borderline
+3922.xml, normal
+3786.xml, Consolidation/lung/upper lobe/left
+922.xml, Cardiomegaly/mild
+1689.xml, normal
+3632.xml, Calcinosis/aorta
+2077.xml, Catheters, Indwelling/right
+2701.xml, No Indexing
+3916.xml, normal
+3809.xml, normal
+2716.xml, Opacity/lung/lower lobe/right
+2340.xml, Lung/hypoinflation
+1092.xml, No Indexing
+3127.xml, Epicardial Fat/left/prominent
+2581.xml, Spine/degenerative/mild
+1431.xml, normal
+3770.xml, Spine/degenerative
+3253.xml, normal
+1733.xml, Lung/obscured
+3003.xml, Calcified Granuloma/multiple
+1822.xml, Lung/hilum/prominent
+1465.xml, Stents/coronary vessels
+1157.xml, Opacity/lung/upper lobe/hilum/left
+3643.xml, No Indexing
+1384.xml, normal
+1653.xml, Implanted Medical Device/left
+3503.xml, normal
+3450.xml, normal
+2346.xml, Cardiomegaly
+5.xml, Osteophyte/thoracic vertebrae/multiple/small
+3908.xml, Spondylosis/thoracic vertebrae/multiple
+1931.xml, normal
+2206.xml, Pulmonary Atelectasis/hilum/right/mild
+101.xml, Cardiomegaly/mild
+2815.xml, Granulomatous Disease
+2514.xml, Granulomatous Disease
+789.xml, Calcified Granuloma/lung/middle lobe/right
+2589.xml, Cardiomegaly
+1217.xml, Lung/hypoinflation
+1374.xml, normal
+191.xml, normal
+2432.xml, normal
+1248.xml, Thoracic Vertebrae/degenerative
+606.xml, Costophrenic Angle/bilateral/obscured
+1017.xml, Pulmonary Atelectasis/lingula/focal
+2022.xml, Cicatrix/lung/lower lobe/left/streaky
+1612.xml, Cardiomegaly/mild
+449.xml, normal
+3552.xml, normal
+2301.xml, Technical Quality of Image Unsatisfactory 
+2809.xml, Catheters, Indwelling/left
+743.xml, Markings/lung/base/interstitial/prominent/mild
+2067.xml, normal
+827.xml, Cicatrix
+794.xml, normal
+96.xml, normal
+46.xml, normal
+2318.xml, Lucency/thorax/left
+1797.xml, Osteophyte/thoracic vertebrae/multiple/small
+3839.xml, Cardiomegaly/borderline
+540.xml, Opacity/lung/base/left/streaky/mild
+2707.xml, Implanted Medical Device
+1627.xml, normal
+347.xml, Thoracic Vertebrae/degenerative/mild
+2441.xml, Costophrenic Angle/right/blunted/mild
+2899.xml, normal
+288.xml, Hernia, Hiatal
+3381.xml, normal
+2093.xml, Catheters, Indwelling/right
+3118.xml, Density/thorax/round/multiple
+3398.xml, Markings/lung/interstitial/chronic
+615.xml, Calcified Granuloma/scattered
+721.xml, normal
+1926.xml, No Indexing
+2521.xml, Implanted Medical Device
+1399.xml, Spinal Fusion/lumbar vertebrae
+925.xml, Pulmonary Edema
+2176.xml, normal
+3117.xml, normal
+697.xml, Diaphragm/left/obscured
+83.xml, normal
+3661.xml, normal
+2799.xml, normal
+734.xml, normal
+656.xml, Cardiomegaly/mild
+1020.xml, Lung/hypoinflation
+3855.xml, Nodule/lung/upper lobe/bilateral/multiple
+1120.xml, Lung/hypoinflation
+3187.xml, Cardiomegaly/mild
+2095.xml, Pulmonary Atelectasis/base/bilateral/patchy
+2005.xml, normal
+3220.xml, normal
+1951.xml, normal
+1332.xml, Aorta/tortuous
+1388.xml, Lung/hypoinflation
+2919.xml, Cardiomegaly/severe
+2898.xml, normal
+3988.xml, Opacity/lung/lingula/streaky
+3251.xml, Nodule/lung/middle lobe/right
+1808.xml, Osteophyte/thoracic vertebrae/anterior/multiple
+3543.xml, Calcified Granuloma/lung/bilateral/multiple
+1626.xml, Nodule/lung/bilateral/multiple
+2166.xml, No Indexing
+1975.xml, normal
+3758.xml, Spinal Fusion/cervical vertebrae/anterior
+1174.xml, Opacity/lung/middle lobe/right
+1311.xml, Lung/hypoinflation
+2471.xml, normal
+1969.xml, normal
+2620.xml, normal
+1658.xml, Thoracic Vertebrae/degenerative/mild
+3567.xml, Implanted Medical Device
+1178.xml, normal
+495.xml, Airspace Disease/lung/streaky
+2103.xml, normal
+546.xml, Pleural Effusion/bilateral/small
+3650.xml, Pulmonary Artery/bilateral/enlarged
+605.xml, Opacity/lung/upper lobe/left/small
+766.xml, normal
+3165.xml, Diaphragm/bilateral/obscured
+2062.xml, Catheters, Indwelling/right
+2414.xml, Technical Quality of Image Unsatisfactory 
+3547.xml, Thoracic Vertebrae/degenerative
+2126.xml, Density/thorax/right
+680.xml, Calcified Granuloma/lung/base/right/small
+3766.xml, Atherosclerosis/aorta
+791.xml, Aorta/tortuous
+3327.xml, Cardiac Shadow/enlarged
+1559.xml, Surgical Instruments/lung/hilum/right
+2743.xml, Thoracic Vertebrae/degenerative
+1761.xml, normal
+1496.xml, Cardiomegaly
+724.xml, Granuloma/lung/lingula
+3942.xml, Scoliosis/lumbar vertebrae/right/moderate
+3647.xml, normal
+940.xml, normal
+2559.xml, normal
+1578.xml, Lung/hypoinflation
+945.xml, Consolidation/lung/upper lobe/left
+3741.xml, Surgical Instruments/right
+2985.xml, Thoracic Vertebrae/degenerative/multiple/mild
+2107.xml, Cardiomegaly/mild
+2758.xml, normal
+2837.xml, Thoracic Vertebrae/degenerative/mild
+90.xml, Spine/degenerative
+1912.xml, normal
+3427.xml, normal
+1941.xml, Implanted Medical Device/right
+3361.xml, normal
+461.xml, normal
+1210.xml, Deformity/thoracic vertebrae/mild
+1287.xml, Granulomatous Disease
+3158.xml, Cardiomegaly
+3799.xml, Pulmonary Atelectasis/base/left/mild
+3193.xml, Lung/hyperdistention/mild
+2228.xml, normal
+1245.xml, Cardiomegaly
+2929.xml, Lung/hypoinflation
+1428.xml, normal
+2354.xml, normal
+536.xml, normal
+657.xml, normal
+473.xml, normal
+2343.xml, Atherosclerosis/aorta
+1672.xml, normal
+3716.xml, Foreign Bodies/breast/bilateral
+2031.xml, normal
+535.xml, Scoliosis/thoracic vertebrae
+1817.xml, Technical Quality of Image Unsatisfactory 
+833.xml, normal
+3369.xml, Pneumothorax/right/large
+3157.xml, normal
+1667.xml, Thickening/pleura
+472.xml, Thoracic Vertebrae/degenerative
+2562.xml, Lung/hypoinflation
+149.xml, normal
+1904.xml, Osteophyte/thoracic vertebrae/degenerative
+3402.xml, Calcified Granuloma/bilateral/scattered/multiple
+3733.xml, Cardiomegaly
+3357.xml, No Indexing
+2111.xml, Airspace Disease/lung/lower lobe/right/patchy
+1226.xml, Consolidation/lung/lower lobe/right/posterior/focal
+3571.xml, Diaphragm/right/elevated
+2283.xml, Diaphragm/left/elevated
+432.xml, normal
+3709.xml, Mediastinum/prominent
+3865.xml, Deformity/ribs/bilateral/multiple
+3691.xml, Atherosclerosis/aorta
+2527.xml, normal
+677.xml, Catheters, Indwelling/right
+3218.xml, normal
+1691.xml, Lung/hypoinflation
+2811.xml, normal
+836.xml, Calcified Granuloma/lung/base/left
+1117.xml, Opacity/lung/lower lobe/left/posterior
+768.xml, normal
+786.xml, Calcified Granuloma/lung/upper lobe/right/small
+670.xml, Atherosclerosis/aorta
+1508.xml, No Indexing
+2856.xml, normal
+1391.xml, Lung/hypoinflation
+3564.xml, Surgical Instruments/mediastinum
+1774.xml, No Indexing
+1562.xml, Lung/hypoinflation
+3456.xml, Lung/hypoinflation
+914.xml, Calcified Granuloma/lung/middle lobe
+1109.xml, normal
+3519.xml, Opacity/lung/lower lobe/left/large
+93.xml, Thoracic Vertebrae/degenerative/mild
+3172.xml, Scoliosis/thoracic vertebrae/right
+731.xml, normal
+3179.xml, Diaphragmatic Eventration/right/anterior
+3334.xml, Infiltrate/lung/base/bilateral
+2606.xml, Lung/interstitial/prominent
+1845.xml, Catheters, Indwelling/left
+737.xml, normal
+3609.xml, Cardiomegaly/borderline
+2189.xml, normal
+1582.xml, normal
+366.xml, normal
+1161.xml, normal
+2370.xml, Consolidation/lung/lower lobe/right
+741.xml, normal
+2164.xml, Granuloma/lung/apex/right
+2434.xml, Cicatrix/lung/apex/bilateral
+3144.xml, normal
+729.xml, Nodule/lung/hilum/right
+1458.xml, Cardiomegaly
+676.xml, normal
+3230.xml, Lung/hypoinflation
+717.xml, normal
+3874.xml, Calcinosis/aorta/mild
+2108.xml, No Indexing
+1958.xml, Lung/hyperdistention
+2996.xml, normal
+3457.xml, Osteophyte/thoracic vertebrae/degenerative/mild
+2451.xml, Thoracic Vertebrae/degenerative/mild
+2497.xml, Lymph Nodes/bilateral/enlarged
+1813.xml, normal
+982.xml, normal
+2061.xml, normal
+1814.xml, normal
+326.xml, normal
+760.xml, Lung/hyperdistention/mild
+2210.xml, normal
+2410.xml, Calcinosis/lung/hilum/lymph nodes/left
+1546.xml, No Indexing
+500.xml, Cardiomegaly
+2308.xml, normal
+3965.xml, No Indexing
+1586.xml, Deformity/thoracic vertebrae/multiple
+3635.xml, Spine/degenerative
+3815.xml, Lung/interstitial/diffuse/prominent/mild
+3811.xml, Cardiomegaly/mild
+1118.xml, normal
+1471.xml, Lung/hyperdistention
+3759.xml, Lung/hyperdistention
+2504.xml, normal
+3360.xml, Pulmonary Atelectasis/base/left
+284.xml, normal
+3273.xml, Cardiomegaly
+389.xml, Calcified Granuloma/lung/lower lobe/right
+616.xml, Diaphragm/left/elevated/mild
+1055.xml, normal
+3005.xml, Aorta/tortuous
+1380.xml, normal
+2875.xml, normal
+3784.xml, Lung/hypoinflation
+2594.xml, Aorta/tortuous
+988.xml, normal
+3993.xml, Cardiomegaly/mild
+928.xml, normal
+285.xml, Aorta/tortuous
+2813.xml, Thoracic Vertebrae/degenerative/mild
+1530.xml, normal
+650.xml, Technical Quality of Image Unsatisfactory 
+1940.xml, normal
+3849.xml, Thoracic Vertebrae/degenerative
+2342.xml, Nodule/lung/upper lobe/right
+3657.xml, Pulmonary Congestion/hilum/bilateral
+154.xml, normal
+801.xml, normal
+3199.xml, normal
+1747.xml, Opacity/left/retrocardiac
+2421.xml, Cardiomegaly/severe
+2171.xml, Calcified Granuloma/lung/upper lobe/right/small
+3462.xml, Density/retrocardiac/small
+1319.xml, normal
+596.xml, Catheters, Indwelling/right
+2419.xml, Atherosclerosis/aorta, thoracic
+2866.xml, normal
+2190.xml, Spine/degenerative
+2728.xml, Lung/hyperdistention
+3227.xml, normal
+117.xml, normal
+3264.xml, Calcified Granuloma/multiple
+1718.xml, Opacity/lung/interstitial/reticular/mild
+614.xml, normal
+937.xml, normal
+590.xml, Airspace Disease/lung/middle lobe/right
+2375.xml, Granulomatous Disease/thorax/right/healed
+1184.xml, Lung/hypoinflation
+3868.xml, Aorta/tortuous/mild
+56.xml, normal
+2012.xml, normal
+3578.xml, No Indexing
+2970.xml, Calcinosis/aorta, thoracic
+1646.xml, normal
+3762.xml, Calcinosis/coronary vessels/left
+943.xml, normal
+2575.xml, Spine/degenerative
+385.xml, normal
+2793.xml, Lung/hyperdistention/mild
+460.xml, Aorta, Thoracic/tortuous/mild
+3572.xml, Markings/lung/hilum/bilateral/prominent/mild
+1070.xml, Thoracic Vertebrae/degenerative/mild
+3851.xml, Density/lung/round/multiple
+2002.xml, Deformity/ribs/posterior
+3983.xml, Opacity/lung/base/left
+40.xml, Lung/hyperdistention/mild
+3739.xml, Granuloma/lung/upper lobe/left
+567.xml, Pulmonary Atelectasis/middle lobe/right/mild
+2472.xml, Implanted Medical Device
+2211.xml, Cardiomegaly
+2657.xml, Pleural Effusion/bilateral/small
+1572.xml, Calcified Granuloma/lung/upper lobe/left
+3001.xml, Sulcus/posterior/obscured
+223.xml, Markings/bronchovascular
+895.xml, Pneumothorax/right
+1760.xml, Cardiomegaly/mild
+187.xml, Aorta/tortuous
+3907.xml, Cardiac Shadow/enlarged/mild
+3397.xml, Cardiomegaly
+846.xml, Granuloma
+425.xml, normal
+408.xml, Lung/hypoinflation
+185.xml, Lung/hypoinflation/mild
+404.xml, Foreign Bodies/abdomen
+3310.xml, No Indexing
+3085.xml, No Indexing
+1656.xml, normal
+1523.xml, normal
+3504.xml, normal
+3299.xml, Lung/hypoinflation
+2327.xml, Pleural Effusion/right/large
+3698.xml, normal
+323.xml, Calcinosis/lung/right
+941.xml, normal
+3288.xml, normal
+2601.xml, normal
+3530.xml, Cardiomegaly/mild
+2754.xml, normal
+3489.xml, normal
+3070.xml, normal
+3910.xml, Lung/hypoinflation
+3379.xml, Cardiomegaly/borderline
+2119.xml, Nodule/lung/base
+3952.xml, Diaphragm/right/elevated
+3189.xml, Lung/hypoinflation
+2151.xml, Lung/hyperdistention
+3238.xml, Aorta/tortuous/mild
+2861.xml, normal
+3487.xml, normal
+556.xml, normal
+753.xml, Spine/degenerative/mild
+2950.xml, normal
+3263.xml, normal
+2339.xml, normal
+934.xml, Opacity/lung/bilateral/interstitial/diffuse
+1834.xml, normal
+866.xml, normal
+3244.xml, Mediastinum/right/paratracheal/prominent
+2364.xml, Lung/hyperdistention
+2949.xml, Calcified Granuloma/lung/scattered/multiple
+1056.xml, Aorta/tortuous
+3514.xml, Density/costophrenic angle/left
+549.xml, Cicatrix/lung/upper lobe/left
+2328.xml, Aorta, Thoracic/tortuous
+1004.xml, Aorta/tortuous
+2649.xml, normal
+2528.xml, Spondylosis/thoracic vertebrae
+2063.xml, Nipple Shadow/bilateral
+2632.xml, normal
+1473.xml, normal
+917.xml, No Indexing
+2885.xml, Lucency/ribs/right/posterior
+2548.xml, Lung/hypoinflation
+3133.xml, normal
+3875.xml, Markings/lung/lower lobe/left/interstitial
+2886.xml, Lung/hypoinflation
+2461.xml, normal
+1859.xml, Hernia, Hiatal
+2544.xml, Cardiomegaly/mild
+3982.xml, normal
+325.xml, normal
+3712.xml, Bone Diseases, Metabolic
+3972.xml, Lung/hilum/lymph nodes/bilateral/enlarged
+2560.xml, Calcified Granuloma/lung/upper lobe/left
+6.xml, normal
+1985.xml, normal
+1251.xml, No Indexing
+2475.xml, Cardiomegaly/mild
+1491.xml, Lung/hypoinflation
+2082.xml, Cardiomegaly
+3608.xml, Cardiomegaly
+1615.xml, normal
+468.xml, Nodule/lung/apex/right
+3946.xml, normal
+1129.xml, Cardiomegaly/mild
+1325.xml, Cardiomegaly/mild
+1381.xml, normal
+2726.xml, normal
+2506.xml, Cardiomegaly
+3616.xml, Atherosclerosis/aorta
+2197.xml, Opacity/lung/upper lobe/right/anterior
+214.xml, Cardiomegaly/moderate
+35.xml, Lung/hyperdistention
+764.xml, normal
+2123.xml, Cardiomegaly
+812.xml, Pulmonary Emphysema/bilateral/chronic
+2085.xml, Spine/degenerative/mild
+2137.xml, Calcified Granuloma/multiple
+1351.xml, Aorta/enlarged/tortuous/mild
+2532.xml, Cardiomegaly
+1436.xml, Calcinosis/aorta
+1441.xml, Density/retrocardiac
+1075.xml, Lung/hyperdistention
+2352.xml, Spinal Fusion/cervical vertebrae
+2142.xml, Hyperostosis, Diffuse Idiopathic Skeletal/thoracic vertebrae
+1787.xml, Granulomatous Disease/mild
+2033.xml, Aorta, Thoracic/tortuous/mild
+1329.xml, Nodule/lung/upper lobe/right
+3707.xml, No Indexing
+636.xml, Granulomatous Disease
+1714.xml, Spine/degenerative
+1879.xml, normal
+1233.xml, Cardiac Shadow/enlarged
+1091.xml, normal
+2808.xml, Granulomatous Disease
+2781.xml, normal
+2942.xml, normal
+183.xml, Lung/hypoinflation
+165.xml, Cicatrix/lung/apex/bilateral
+1769.xml, Consolidation/lung/lower lobe/left
+1147.xml, normal
+750.xml, Thoracic Vertebrae/degenerative/mild
+2490.xml, Calcified Granuloma/multiple
+61.xml, Calcinosis/lymph nodes/right/paratracheal
+1088.xml, Opacity/lung/right/streaky/mild
+931.xml, normal
+797.xml, Cardiomegaly
+3162.xml, Cicatrix/lung/middle lobe/right
+3985.xml, Calcified Granuloma/lung/lower lobe/left/anterior
+2740.xml, Thoracic Vertebrae/degenerative
+3998.xml, normal
+131.xml, Calcified Granuloma/lung/middle lobe/right
+3816.xml, Spine/degenerative
+1748.xml, normal
+2826.xml, Markings/lung/interstitial/prominent
+1314.xml, normal
+1357.xml, Cardiomegaly
+1976.xml, Infiltrate/lung/upper lobe/pulmonary alveoli/right/patchy
+247.xml, normal
+3471.xml, Lucency/round
+2292.xml, normal
+2464.xml, normal
+1001.xml, Markings/lung/bilateral/interstitial/diffuse/prominent
+1116.xml, Density/breast
+2822.xml, Catheters, Indwelling/left
+257.xml, Opacity/posterior
+1258.xml, No Indexing
+3201.xml, Lung/hypoinflation
+1236.xml, normal
+2186.xml, Lung/hypoinflation
+2145.xml, normal
+3612.xml, Calcinosis/lymph nodes/right/paratracheal
+378.xml, Pulmonary Atelectasis/base/right/mild
+442.xml, Lung/hyperdistention
+875.xml, No Indexing
+1472.xml, Lung/bilateral/hyperdistention
+3139.xml, normal
+3255.xml, No Indexing
+1704.xml, Costophrenic Angle/left/blunted
+2744.xml, normal
+276.xml, normal
+2501.xml, Lung/hyperdistention
+880.xml, Spondylosis/thoracic vertebrae
+3279.xml, normal
+513.xml, Heart Atria/bilateral/enlarged
+1106.xml, Density/lung/base/right/mild
+821.xml, Calcified Granuloma/lung/upper lobe/right
+755.xml, Osteophyte/thoracic vertebrae/multiple
+2558.xml, normal
+2216.xml, Diaphragm/right/elevated/mild
+411.xml, Opacity/lung/base/left/patchy/mild
+742.xml, Opacity/lung/base/right/focal/abnormal
+399.xml, Spine/degenerative
+1280.xml, normal
+3346.xml, normal
+2256.xml, normal
+3496.xml, normal
+999.xml, normal
+2981.xml, Scoliosis/thoracic vertebrae/right/mild
+647.xml, Costophrenic Angle/blunted/mild
+1179.xml, Opacity
+3645.xml, Markings/lung/base/prominent/mild
+2987.xml, Implanted Medical Device
+580.xml, Atherosclerosis/aorta
+3518.xml, Osteophyte/thoracic vertebrae/degenerative/multiple
+2845.xml, normal
+32.xml, Costophrenic Angle/right/blunted/mild
+3546.xml, Cardiomegaly
+24.xml, normal
+2008.xml, normal
+1643.xml, normal
+2240.xml, normal
+2618.xml, Opacity/lung/retrocardiac/focal/small
+832.xml, Calcified Granuloma/lung/lower lobe/left
+3107.xml, Mass/mediastinum/right
+819.xml, Breast Implants/bilateral
+1738.xml, Aorta/tortuous/mild
+3820.xml, Kyphosis/thoracic vertebrae
+1134.xml, Catheters, Indwelling/left
+1083.xml, normal
+800.xml, Cardiomegaly
+3352.xml, normal
+2438.xml, normal
+3550.xml, Aorta/tortuous/prominent
+2433.xml, Lung/hypoinflation
+1794.xml, normal
+2483.xml, Implanted Medical Device/aortic valve
+3473.xml, normal
+1606.xml, normal
+1592.xml, Cardiomegaly/borderline
+635.xml, Pulmonary Atelectasis/lower lobe/left
+3704.xml, normal
+39.xml, No Indexing
+238.xml, normal
+756.xml, normal
+3958.xml, normal
+9.xml, Calcified Granuloma/lung/upper lobe/right
+1482.xml, normal
+1084.xml, normal
+1460.xml, normal
+2295.xml, Calcinosis/aorta, thoracic
+1970.xml, Cardiomegaly/borderline
+3970.xml, normal
+3695.xml, Pulmonary Congestion/mild
+3960.xml, Spondylosis/thoracic vertebrae
+565.xml, normal
+2930.xml, Osteophyte/thoracic vertebrae/multiple
+3006.xml, Cardiomegaly
+263.xml, normal
+2691.xml, Technical Quality of Image Unsatisfactory 
+767.xml, normal
+3143.xml, normal
+716.xml, Cardiomegaly/mild
+1211.xml, normal
+2069.xml, normal
+1475.xml, Density/lung/upper lobe/right/round
+3529.xml, Cardiomegaly/mild
+2215.xml, normal
+3568.xml, Calcinosis/lymph nodes/right/paratracheal
+2261.xml, Medical Device
+3841.xml, Thoracic Vertebrae/degenerative/mild
+1499.xml, Lung/hypoinflation
+474.xml, normal
+3232.xml, Nodule/lung/lingula/small
+1193.xml, Cardiac Shadow/enlarged
+2426.xml, Thoracic Vertebrae/degenerative/mild
+91.xml, Pneumothorax/apex/right/moderate
+1414.xml, normal
+2545.xml, normal
+3516.xml, Costophrenic Angle/bilateral/blunted/mild
+3132.xml, normal
+510.xml, normal
+1050.xml, Technical Quality of Image Unsatisfactory 
+2154.xml, Hypovolemia/lung/apex
+2059.xml, Opacity/lung/lower lobe/right/patchy
+1289.xml, Costophrenic Angle/bilateral/blunted
+2066.xml, Cardiomegaly/mild
+1405.xml, Cicatrix/lung/middle lobe/right
+3900.xml, normal
+306.xml, normal
+2025.xml, normal
+475.xml, normal
+646.xml, Foreign Bodies/left
+2249.xml, Lung/hilum/lymph nodes/right/enlarged
+1603.xml, normal
+2869.xml, Scoliosis
+3823.xml, normal
+1452.xml, normal
+2563.xml, normal
+2080.xml, Opacity/lung/right/round
+204.xml, normal
+3331.xml, Calcified Granuloma/lung/lower lobe/right
+2317.xml, Calcified Granuloma/costophrenic angle/right
+206.xml, Density/lung/lingula
+1479.xml, Granuloma/ribs/right/posterior
+236.xml, normal
+2921.xml, Airspace Disease/lung/costophrenic angle/left/mild
+2846.xml, Opacity/lung/base/bilateral
+1670.xml, Catheters, Indwelling
+497.xml, normal
+2125.xml, Aorta/tortuous
+537.xml, Calcified Granuloma/scattered
+1305.xml, normal
+3208.xml, normal
+3309.xml, normal
+3186.xml, Lung/hypoinflation
+3004.xml, Calcified Granuloma/scattered/multiple
+1793.xml, normal
+384.xml, Markings/lung/interstitial/scattered/irregular/chronic
+3137.xml, Calcinosis/lung/lingula
+2019.xml, normal
+644.xml, Spondylosis/thoracic vertebrae
+1967.xml, Opacity/lung/lingula
+2312.xml, normal
+2547.xml, Opacity/lung/lower lobe/right/mild
+3480.xml, Surgical Instruments/abdomen
+3112.xml, normal
+795.xml, normal
+220.xml, Catheters, Indwelling
+1595.xml, Cardiomegaly
+2913.xml, Cardiac Shadow/enlarged
+2769.xml, Bullous Emphysema/lung/apex/bilateral
+1318.xml, normal
+418.xml, Cardiac Shadow/enlarged
+2314.xml, Opacity/costophrenic angle/right/multiple
+3920.xml, Technical Quality of Image Unsatisfactory 
+3641.xml, Surgical Instruments/mediastinum
+3785.xml, Opacity/lung/hilum/multiple/prominent/mild
+1887.xml, Atherosclerosis/aorta
+2718.xml, Thoracic Vertebrae/degenerative/mild
+859.xml, Opacity/lung/lower lobe/right
+173.xml, Lung/hypoinflation
+2658.xml, Atherosclerosis/aorta, thoracic
+2222.xml, Density/right/paratracheal/multiple
+2133.xml, Scoliosis/thoracic vertebrae/mild
+290.xml, Surgical Instruments/shoulder/right
+343.xml, Consolidation/lung
+1371.xml, Aorta/tortuous/mild
+1588.xml, normal
+3919.xml, Cardiomegaly/mild
+1033.xml, Lung/hypoinflation
+3364.xml, Cardiomegaly/borderline
+3438.xml, normal
+2052.xml, Granuloma/scattered/multiple
+242.xml, normal
+575.xml, Calcified Granuloma/lung/left
+3968.xml, Pneumonia/lower lobe/left
+1306.xml, Lung/hypoinflation
+1947.xml, Nodule/lung/base/right
+2444.xml, Shoulder/degenerative
+351.xml, Lung/hyperdistention
+1007.xml, Thoracic Vertebrae/degenerative/mild
+668.xml, normal
+3706.xml, Surgical Instruments/mediastinum
+3486.xml, Spine/degenerative/chronic/mild
+3603.xml, normal
+1654.xml, Aorta/tortuous
+2094.xml, Epicardial Fat/prominent
+1984.xml, Fractures, Bone/thoracic vertebrae
+2193.xml, Pleura/right/blunted
+113.xml, Opacity/lung/right
+240.xml, Cicatrix/lung/apex/right/streaky
+1204.xml, Cardiomegaly/mild
+2608.xml, Consolidation/lung/lower lobe/bilateral
+3686.xml, Cardiomegaly
+1417.xml, Lung, Hyperlucent/apex/bilateral
+706.xml, Aorta/tortuous
+2163.xml, Calcified Granuloma/lung/upper lobe/left
+2804.xml, normal
+353.xml, Pulmonary Edema/bilateral/interstitial/mild
+3033.xml, normal
+1012.xml, Lung/hypoinflation
+1528.xml, Implanted Medical Device
+1673.xml, Lung/hyperdistention
+2129.xml, normal
+844.xml, normal
+3506.xml, No Indexing
+1584.xml, Thoracic Vertebrae/degenerative
+446.xml, Spondylosis/thoracic vertebrae
+3633.xml, Thoracic Vertebrae/degenerative
+1636.xml, normal
+2725.xml, Emphysema
+3307.xml, normal
+2734.xml, normal
+1675.xml, Lung/hypoinflation
+3237.xml, Cardiomegaly
+2073.xml, Aorta/tortuous
+2672.xml, normal
+2911.xml, Sulcus/bilateral/blunted/mild
+820.xml, Osteophyte/thoracic vertebrae/multiple
+522.xml, Lung/hyperdistention
+3935.xml, Catheters, Indwelling/left
+1026.xml, normal
+2611.xml, normal
+2941.xml, normal
+3124.xml, Pulmonary Artery/enlarged/severe
+1498.xml, Aorta/tortuous
+1059.xml, Aorta/tortuous
+65.xml, normal
+554.xml, normal
+3768.xml, Cardiomegaly/mild
+1791.xml, Technical Quality of Image Unsatisfactory 
+396.xml, Spine/degenerative/mild
+2782.xml, No Indexing
+3493.xml, Lung/hypoinflation/mild
+809.xml, Aorta, Thoracic/tortuous
+684.xml, Cardiomegaly
+845.xml, Pulmonary Atelectasis/posterior/mild
+1257.xml, Cardiomegaly/mild
+1730.xml, Thoracic Vertebrae/degenerative/mild
+2198.xml, normal
+2676.xml, Tube, Inserted
+135.xml, normal
+1440.xml, normal
+1512.xml, normal
+1705.xml, normal
+2847.xml, Aorta, Thoracic/tortuous
+2567.xml, normal
+2714.xml, normal
+3011.xml, Atherosclerosis/aorta
+3859.xml, Cardiomegaly
+2144.xml, Calcified Granuloma/lung/hilum
+162.xml, normal
+1763.xml, Lung/hyperdistention
+1408.xml, Calcified Granuloma/lung/upper lobe/right
+2552.xml, normal
+711.xml, Calcified Granuloma/lung/base/bilateral
+3267.xml, normal
+963.xml, Spine/degenerative/mild
+3769.xml, Lung/hypoinflation
+1192.xml, normal
+798.xml, normal
+1699.xml, Consolidation/lung/lower lobe/left/focal
+1397.xml, normal
+1831.xml, normal
+3468.xml, Atherosclerosis/aorta
+2355.xml, Lung/hypoinflation
+203.xml, normal
+885.xml, Implanted Medical Device/left
+2325.xml, Opacity/lung/base/left
+327.xml, Cardiomegaly/mild
+3435.xml, Cardiomegaly
+785.xml, normal
+3194.xml, normal
+134.xml, Calcified Granuloma/lung/middle lobe/right
+1252.xml, normal
+3699.xml, Thoracic Vertebrae/degenerative
+1378.xml, normal
+3889.xml, normal
+1968.xml, Technical Quality of Image Unsatisfactory 
+2001.xml, Lung/hypoinflation
+899.xml, normal
+793.xml, normal
+3259.xml, Calcified Granuloma/lung/apex/right/large
+3476.xml, Granulomatous Disease
+3373.xml, normal
+1815.xml, Thoracic Vertebrae/degenerative/mild
+1456.xml, normal
+415.xml, Breast Implants/bilateral
+1015.xml, Opacity/lung/base/bilateral/patchy/streaky
+907.xml, Lung/hypoinflation
+2644.xml, Cardiomegaly/mild
+181.xml, Diaphragmatic Eventration/right
+2495.xml, Granuloma/lung/hilum/right/scattered/multiple
+2396.xml, Opacity/lung/lower lobe/bilateral/prominent
+81.xml, normal
+3522.xml, normal
+3441.xml, normal
+1299.xml, Opacity/lung/hilum/right
+2609.xml, normal
+841.xml, Catheters, Indwelling/left
+3895.xml, Opacity/lung/lower lobe/left/scattered/multiple
+2480.xml, normal
+3400.xml, normal
+558.xml, Calcified Granuloma/scattered/multiple
+3969.xml, Lung/hyperdistention
+2037.xml, Lung/hyperdistention
+1777.xml, Technical Quality of Image Unsatisfactory 
+387.xml, Lung/hilum/enlarged
+2161.xml, normal
+435.xml, normal
+454.xml, Cardiomegaly/mild
+1713.xml, normal
+1880.xml, Nodule/lung/lingula
+330.xml, normal
+1723.xml, Calcinosis/mediastinum/lymph nodes
+2168.xml, Scoliosis/thoracic vertebrae/right
+34.xml, normal
+1011.xml, normal
+2083.xml, normal
+2293.xml, Opacity/lung/base/mild
+1256.xml, Thoracic Vertebrae/degenerative
+1018.xml, Calcified Granuloma/lung/right/small
+723.xml, Opacity/lung/base/bilateral
+1894.xml, Opacity/thorax/right
+3175.xml, Heart/left/obscured
+781.xml, normal
+816.xml, Implanted Medical Device/right
+3075.xml, Cardiomegaly/mild
+1135.xml, Calcified Granuloma/lung/base/left/small
+3671.xml, Opacity/lung/upper lobe/right/patchy/mild
+763.xml, Calcified Granuloma/scattered
+3531.xml, Aorta, Thoracic/tortuous/mild
+2955.xml, Cardiomegaly/moderate
+2274.xml, Lung/hilum/lymph nodes/bilateral/enlarged
+1678.xml, Catheters, Indwelling/right
+521.xml, Technical Quality of Image Unsatisfactory 
+1114.xml, normal
+1216.xml, normal
+3906.xml, normal
+3338.xml, normal
+3913.xml, normal
+1164.xml, Cardiomegaly/borderline
+2039.xml, Calcified Granuloma/lung/hilum/right/multiple/large
+1140.xml, Catheters, Indwelling
+1825.xml, Scoliosis/mild
+3511.xml, normal
+225.xml, normal
+2361.xml, Scoliosis/thoracic vertebrae/right/mild
+215.xml, Cardiomegaly
+1010.xml, normal
+3500.xml, normal
+2712.xml, Calcified Granuloma/lung/upper lobe/left
+167.xml, Calcified Granuloma/lung/upper lobe/left
+888.xml, normal
+2322.xml, Opacity/lung/middle lobe/right
+2835.xml, Lung/hypoinflation
+3323.xml, Aorta/tortuous
+3989.xml, Diaphragmatic Eventration/right
+2269.xml, normal
+911.xml, normal
+2967.xml, normal
+110.xml, normal
+2667.xml, normal
+862.xml, Cicatrix/lung/lower lobe/left
+3964.xml, Lung/hyperdistention
+3595.xml, Cardiomegaly
+3803.xml, Aorta/tortuous
+3714.xml, Lung/hypoinflation/mild
+1197.xml, Pulmonary Congestion/bilateral
+3141.xml, normal
+1685.xml, Lung/hyperdistention
+3904.xml, normal
+1628.xml, Cardiomegaly
+2098.xml, normal
+678.xml, Opacity/lung/lower lobe/right
+1242.xml, Aorta/tortuous
+1040.xml, Calcinosis/lung/hilum/right
+998.xml, Atherosclerosis/aorta, thoracic
+757.xml, normal
+1712.xml, Thickening/lung/lower lobe/bronchi/bilateral
+2931.xml, Opacity/lung/lower lobe/left
+2427.xml, Hernia, Hiatal
+673.xml, normal
+611.xml, Lung/hypoinflation
+1474.xml, Granuloma/lung/right
+259.xml, normal
+2076.xml, Cardiomegaly
+2227.xml, Opacity/lung/base/interstitial/reticular
+1027.xml, Costophrenic Angle/sulcus/bilateral/posterior/obscured
+1476.xml, normal
+1944.xml, Calcinosis/lung/upper lobe/right
+2745.xml, Calcified Granuloma/scattered/multiple
+159.xml, Osteophyte/shoulder/bilateral/multiple
+1939.xml, Opacity/costophrenic angle/left
+2729.xml, Diaphragm/left/elevated
+1230.xml, Cardiomegaly/mild
+3646.xml, normal
+1426.xml, normal
+3037.xml, normal
+2881.xml, normal
+2557.xml, Cardiomegaly/mild
+2220.xml, Lung/hypoinflation
+864.xml, Aorta, Thoracic/tortuous
+761.xml, Lung/hypoinflation
+2371.xml, Osteophyte/thoracic vertebrae/multiple
+991.xml, Opacity/lung/hilum/streaky/mild
+2798.xml, Calcinosis/mediastinum/lymph nodes
+2802.xml, Lung/hyperdistention
+226.xml, normal
+1447.xml, normal
+2462.xml, Cardiomegaly
+3032.xml, Surgical Instruments
+505.xml, normal
+2698.xml, normal
+53.xml, Lung/hypoinflation/severe
+3213.xml, Calcified Granuloma/lung/middle lobe/right
+915.xml, Calcinosis/lung/base/left/multiple/small
+1330.xml, normal
+2582.xml, Lung/hypoinflation
+2425.xml, Lung/hypoinflation
+1734.xml, normal
+2965.xml, normal
+3386.xml, normal
+1891.xml, No Indexing
+1695.xml, Calcified Granuloma/lung/base/left
+3280.xml, Opacity/lung/middle lobe/right
+1345.xml, normal
+1998.xml, Hernia, Hiatal/large
+1992.xml, Cardiomegaly/borderline
+2753.xml, Calcinosis/mediastinum/lymph nodes
+1277.xml, Pulmonary Atelectasis/middle lobe/right/mild
+3666.xml, Pulmonary Atelectasis/base/right
+518.xml, normal
+1303.xml, Mass/lung/upper lobe/right/posterior
+2983.xml, Cicatrix/lung/lower lobe/right
+1269.xml, Lung/hyperdistention
+3221.xml, normal
+1739.xml, Deformity/sternum/anterior
+956.xml, Spinal Fusion
+1740.xml, Opacity/lung/middle lobe/right
+365.xml, normal
+2.xml, Cardiomegaly/borderline
+3041.xml, normal
+1511.xml, normal
+2313.xml, normal
+3602.xml, Calcified Granuloma/lung/bilateral/multiple
+3121.xml, Calcified Granuloma/lung/middle lobe/right
+2231.xml, Technical Quality of Image Unsatisfactory 
+1647.xml, normal
+1553.xml, Osteophyte/spine/multiple
+2665.xml, normal
+2706.xml, Arthritis/spine
+1468.xml, normal
+2662.xml, normal
+1190.xml, normal
+720.xml, normal
+1307.xml, Density/lung/base/left
+3640.xml, Calcified Granuloma/lung/apex/right
+3304.xml, Scoliosis/thoracic vertebrae/left
+1119.xml, Lung/hypoinflation
+3439.xml, normal
+2785.xml, normal
+727.xml, normal
+3872.xml, Spondylosis/thoracic vertebrae
+1339.xml, Pneumothorax/right/small
+2459.xml, normal
+990.xml, normal
+3664.xml, normal
+3090.xml, Pleural Effusion/right
+3943.xml, Calcinosis/lung/hilum/left
+484.xml, Scoliosis/thoracic vertebrae/severe
+3923.xml, normal
+3135.xml, normal
+1032.xml, Calcinosis/lung/lingula
+796.xml, normal
+1694.xml, Sclerosis/thoracic vertebrae/posterior/mild
+3607.xml, Opacity/lung/base/left
+1424.xml, normal
+3660.xml, normal
+427.xml, normal
+3392.xml, normal
+118.xml, Airspace Disease/lung/middle lobe/right/focal
+120.xml, Lung/bilateral/hypoinflation
+3066.xml, Emphysema/mild
+2351.xml, Calcinosis/thorax/scattered/multiple
+805.xml, Spine/degenerative/mild
+2372.xml, Lung/hypoinflation
+3322.xml, Calcified Granuloma/lung/apex/right/small
+1724.xml, Lung/hyperdistention/mild
+1427.xml, Catheters, Indwelling
+169.xml, normal
+1965.xml, Cardiomegaly/moderate
+2854.xml, normal
+62.xml, Stents/coronary vessels
+386.xml, Markings/bronchovascular
+137.xml, Opacity/lung/left
+234.xml, normal
+1837.xml, normal
+1065.xml, Thoracic Vertebrae/degenerative/mild
+3521.xml, Bullous Emphysema/lung/apex/bilateral
+3586.xml, Cardiomegaly/mild
+2321.xml, normal
+660.xml, Calcinosis/lung/hilum/lymph nodes
+867.xml, Aorta/tortuous/mild
+1369.xml, Epicardial Fat/prominent
+2299.xml, Calcified Granuloma/lung/base/right
+1618.xml, normal
+217.xml, normal
+3065.xml, Thoracic Vertebrae/degenerative
+3738.xml, normal
+1313.xml, Calcinosis/lung/hilum/lymph nodes/bilateral
+506.xml, normal
+375.xml, normal
+50.xml, Cardiomegaly
+1762.xml, Calcinosis/lymph nodes/right/paratracheal
+3765.xml, normal
+802.xml, Technical Quality of Image Unsatisfactory 
+1893.xml, Lung/hypoinflation/mild
+2357.xml, normal
+939.xml, normal
+104.xml, Opacity/lung/base/left/mild
+280.xml, No Indexing
+1492.xml, Lucency/clavicle/right
+2556.xml, Implanted Medical Device/left
+457.xml, Calcified Granuloma/lung/lingula
+2309.xml, Calcinosis/lung/hilum/bilateral/multiple/small
+3713.xml, No Indexing
+2503.xml, Atherosclerosis/aorta
+1071.xml, Technical Quality of Image Unsatisfactory 
+2773.xml, Thoracic Vertebrae/degenerative/mild
+3472.xml, normal
+2935.xml, Scoliosis
+1221.xml, No Indexing
+1067.xml, normal
+2713.xml, Calcinosis/aorta
+1450.xml, normal
+891.xml, normal
+579.xml, normal
+68.xml, normal
+313.xml, Cardiac Shadow/enlarged/moderate
+3216.xml, normal
+420.xml, Density/lung/middle lobe/right
+1767.xml, Calcified Granuloma/lung/lower lobe/right
+3478.xml, Scoliosis
+1677.xml, normal
+2287.xml, Lung/hypoinflation
+882.xml, normal
+1153.xml, normal
+3901.xml, Opacity/lung/base/bilateral
+138.xml, normal
+2555.xml, Lung/hyperdistention/mild
+3557.xml, Catheters, Indwelling/left
+2335.xml, Osteophyte/thoracic vertebrae/anterior/multiple
+666.xml, Cardiomegaly/borderline
+3490.xml, Calcinosis/abdomen/right/round
+2407.xml, Calcified Granuloma/lung/multiple/small
+683.xml, normal
+3915.xml, Catheters, Indwelling/thorax/left
+557.xml, normal
+1709.xml, Opacity/lung/base/bilateral/mild
+77.xml, Thickening/pleura/apex/bilateral
+1537.xml, normal
+3867.xml, normal
+3680.xml, Opacity/lung/base/bilateral/streaky
+3541.xml, Lung/hypoinflation/mild
+3750.xml, Cardiomegaly
+2152.xml, normal
+3148.xml, Cardiomegaly/mild
+1235.xml, Opacity
+1516.xml, normal
+471.xml, Funnel Chest/mild
+248.xml, Calcified Granuloma/lung/middle lobe/right/small
+1030.xml, Spine/degenerative/mild
+3248.xml, Cardiomegaly/borderline
+713.xml, Catheters, Indwelling/right
+1396.xml, normal
+2122.xml, Implanted Medical Device/thorax/left
+2040.xml, Cardiomegaly
+1867.xml, Cardiomegaly/mild
+1008.xml, normal
+67.xml, Lung/hypoinflation
+3936.xml, normal
+3072.xml, Catheters, Indwelling/left
+908.xml, Calcinosis/lung/upper lobe/right
+374.xml, Cardiomegaly
+3638.xml, Cardiomegaly
+2602.xml, Opacity/lung/upper lobe/right/patchy
+1131.xml, Calcified Granuloma/lung/base/right
+3613.xml, Calcified Granuloma/lung/bilateral/multiple
+205.xml, Diaphragm/right/elevated
+2319.xml, normal
+1151.xml, normal
+3984.xml, Aorta, Thoracic/tortuous
+3484.xml, Implanted Medical Device/heart
+3093.xml, Lung/hyperdistention
+2349.xml, normal
+2191.xml, Cardiomegaly/borderline
+2617.xml, Lung/hyperdistention
+2496.xml, Cardiomegaly/severe
+445.xml, normal
+69.xml, normal
+3590.xml, normal
+1556.xml, Aorta/tortuous
+1455.xml, Calcified Granuloma/lung/middle lobe/left
+893.xml, normal
+2390.xml, Cardiomegaly/borderline
+92.xml, Markings/bronchovascular
+1635.xml, Calcified Granuloma/lung/base/right
+1846.xml, Calcified Granuloma/lung/upper lobe/left
+1191.xml, normal
+2505.xml, Calcinosis/aorta
+1810.xml, normal
+2084.xml, Catheters, Indwelling/left
+667.xml, Tube, Inserted
+3270.xml, Spine/degenerative
+99.xml, Foreign Bodies/thorax/left
+2561.xml, normal
+1917.xml, normal
+2951.xml, Lucency/ribs/left/posterior
+1651.xml, Calcified Granuloma/lung/upper lobe/right
+3368.xml, Lung/hypoinflation
+1448.xml, normal
+3577.xml, normal
+2157.xml, normal
+1142.xml, normal
+1613.xml, Tube, Inserted
+383.xml, Osteophyte/thoracic vertebrae/anterior/multiple
+3404.xml, Mastectomy/left
+1389.xml, Lung/hyperdistention
+3000.xml, Nodule/lung/bilateral/multiple
+2756.xml, Infiltrate/lung/lower lobe/right
+1816.xml, Calcinosis/mediastinum/lymph nodes
+3384.xml, normal
+543.xml, normal
+920.xml, normal
+986.xml, normal
+230.xml, Nodule/lung/lingula
+637.xml, No Indexing
+728.xml, Nodule/lung/lower lobe/left/posterior
+95.xml, Calcified Granuloma/lung/base/right
+1253.xml, normal
+560.xml, normal
+564.xml, Airspace Disease/lung/upper lobe/right
+958.xml, normal
+3329.xml, normal
+467.xml, normal
+3142.xml, Cardiomegaly/mild
+1610.xml, No Indexing
+3627.xml, Thoracic Vertebrae/scattered/degenerative
+1198.xml, Calcified Granuloma/lung/lower lobe/right
+1971.xml, normal
+3103.xml, Diaphragmatic Eventration/right
+3315.xml, normal
+1278.xml, normal
+2392.xml, normal
+3380.xml, Spine/degenerative/mild
+1868.xml, Pleural Effusion/bilateral/small
+1238.xml, normal
+2493.xml, normal
+2032.xml, normal
+2271.xml, Density/lung/middle lobe/right
+1125.xml, Cardiomegaly/borderline
+1789.xml, Diaphragm/right/elevated
+1429.xml, normal
+2888.xml, Aorta, Thoracic/tortuous
+74.xml, Calcified Granuloma/lung/left
+2671.xml, Markings/lung/bilateral/prominent/chronic
+1991.xml, Lung/hypoinflation
+2643.xml, normal
+2953.xml, normal
+2877.xml, normal
+1698.xml, normal
+1786.xml, Foreign Bodies/breast/left
+3388.xml, Calcinosis/lung/upper lobe/left
+3723.xml, normal
+2422.xml, Consolidation/lung/lower lobe/left
+900.xml, Catheters, Indwelling/right
+1111.xml, Technical Quality of Image Unsatisfactory 
+2437.xml, normal
+2903.xml, Lung/hypoinflation/mild
+453.xml, Pulmonary Fibrosis/base/bilateral
+337.xml, Opacity/sulcus/posterior/mild
+4.xml, Pulmonary Disease, Chronic Obstructive
+1866.xml, No Indexing
+738.xml, No Indexing
+2833.xml, normal
+3196.xml, normal
+1542.xml, Atherosclerosis/aorta
+3630.xml, Calcinosis/aorta
+444.xml, normal
+2188.xml, Hernia, Hiatal/prominent
+1960.xml, normal
+1662.xml, Markings/lung/interstitial/prominent
+2209.xml, Emphysema
+1619.xml, Lung/hypoinflation/mild
+1335.xml, normal
+2255.xml, Density/lung/right/round/multiple
+103.xml, Mediastinum/prominent
+450.xml, normal
+848.xml, Aorta/tortuous
+1906.xml, Opacity/lung/base/bilateral/streaky
+3059.xml, normal
+3275.xml, Spine/degenerative/mild
+1077.xml, No Indexing
+1995.xml, normal
+3475.xml, normal
+1180.xml, Aorta, Thoracic/tortuous/mild
+2454.xml, Costophrenic Angle/left/blunted
+2278.xml, Calcified Granuloma/lung/right/multiple
+3332.xml, Lung/hypoinflation
+3649.xml, normal
+1309.xml, normal
+1501.xml, Diaphragm/right/elevated
+157.xml, normal
+2245.xml, normal
+1630.xml, Nodule/lung/upper lobe/right
+3054.xml, Spine/degenerative
+37.xml, Opacity/lung/middle lobe/right
+2591.xml, normal
+710.xml, Calcified Granuloma/lung/upper lobe/right
+1284.xml, Implanted Medical Device/left
+2502.xml, Opacity/lung/middle lobe/right/focal
+2239.xml, Medical Device
+1520.xml, normal
+509.xml, Tube, Inserted/thorax/left
+2042.xml, Cicatrix/lung/apex/right/round
+1729.xml, Emphysema/bilateral/chronic/severe
+2978.xml, Calcinosis/lung/lower lobe/right/multiple/small
+3651.xml, Costophrenic Angle/bilateral/blunted
+1102.xml, Cardiomegaly
+3258.xml, normal
+3219.xml, Aorta/tortuous/mild
+2146.xml, normal
+1159.xml, normal
+89.xml, normal
+3129.xml, Aorta/tortuous
+980.xml, normal
+901.xml, Cardiomegaly
+3805.xml, No Indexing
+1393.xml, Opacity/lung/base/left
+2697.xml, normal
+3611.xml, Calcinosis/aorta
+198.xml, No Indexing
+84.xml, Lung/hypoinflation
+629.xml, normal
+2395.xml, normal
+2038.xml, normal
+3108.xml, Airspace Disease/lung/lower lobe/right
+30.xml, normal
+1925.xml, Lung/hilum/bilateral/prominent
+1768.xml, Cicatrix/lung/apex/bilateral/mild
+1013.xml, Cardiomegaly/mild
+2910.xml, normal
+1352.xml, Cicatrix/lung/upper lobe/right
+538.xml, normal
+3269.xml, normal
+3454.xml, Catheters, Indwelling
+3188.xml, Cardiac Shadow/enlarged/borderline
+299.xml, Hernia, Hiatal/small
+2569.xml, Atherosclerosis/aorta, thoracic
+266.xml, Cardiomegaly/mild
+2128.xml, Lung/hyperdistention
+3150.xml, Opacity/lung/lower lobe/left
+3197.xml, Calcified Granuloma/bilateral/multiple
+1358.xml, Thoracic Vertebrae/degenerative/moderate
+2388.xml, normal
+1464.xml, Calcified Granuloma/lung/base/left
+610.xml, Cardiomegaly/severe
+905.xml, normal
+3242.xml, Thoracic Vertebrae/degenerative/multiple
+3224.xml, normal
+1422.xml, Opacity/lung/upper lobe/right
+849.xml, Nodule/lung/base/left
+894.xml, normal
+2705.xml, Calcinosis/aorta
+3084.xml, Osteophyte/thoracic vertebrae/degenerative/multiple/mild
+3408.xml, Fractures, Bone/ribs/bilateral/multiple/healed
+2341.xml, Spondylosis/thoracic vertebrae
+2600.xml, Implanted Medical Device/cervical vertebrae
+2944.xml, Mass/lung/base/right/large
+1914.xml, Opacity/lung/bilateral/interstitial/diffuse
+2235.xml, Lung/hypoinflation
+3692.xml, normal
+2519.xml, Cardiomegaly/mild
+3311.xml, normal
+2385.xml, normal
+1315.xml, normal
+3751.xml, No Indexing
+1877.xml, normal
+3499.xml, normal
+114.xml, normal
+1514.xml, Opacity/lung/lingula
+2733.xml, Opacity/lung/base/bilateral
+2894.xml, Tube, Inserted/trachea
+29.xml, Cardiomegaly/borderline
+286.xml, Calcinosis/lung/hilum/left
+2387.xml, Thoracic Vertebrae/degenerative/moderate
+3981.xml, normal
+1987.xml, normal
+2995.xml, normal
+3465.xml, normal
+3389.xml, No Indexing
+3110.xml, Diaphragm/right/elevated
+3973.xml, normal
+1099.xml, normal
+1886.xml, Atherosclerosis/aorta
+3791.xml, Mass/thorax/multiple
+202.xml, Cardiomegaly
+172.xml, Diaphragm/right/elevated
+1874.xml, Pneumothorax/apex/right/small
+3154.xml, Scoliosis/thoracic vertebrae/right/severe
+3290.xml, normal
+3637.xml, normal
+1871.xml, normal
+3879.xml, normal
+2499.xml, Lung/bilateral/hypoinflation
+1019.xml, Costophrenic Angle/right/blunted
+1737.xml, normal
+1659.xml, normal
+1743.xml, Cardiomegaly
+3335.xml, Thoracic Vertebrae/degenerative
+1331.xml, Lung/hypoinflation
+2202.xml, normal
+2383.xml, Cardiomegaly
+810.xml, Calcified Granuloma/scattered
+835.xml, Scoliosis/thoracic vertebrae/right/mild
+700.xml, Calcified Granuloma/lung/lower lobe/right
+3560.xml, normal
+348.xml, normal
+3844.xml, normal
+1353.xml, Airspace Disease/lung/right/diffuse
+2590.xml, normal
+2724.xml, Aorta/tortuous
+542.xml, normal
+3463.xml, Opacity/lung/base/left
+1504.xml, normal
+3042.xml, Implanted Medical Device/thorax/left
+2963.xml, normal
+3211.xml, Atherosclerosis/aorta
+2838.xml, normal
+1876.xml, Deformity/pleura/apex/right
+1285.xml, Nodule/lung/hilum/right/prominent
+2751.xml, normal
+548.xml, Cicatrix/lung/apex/right
+2404.xml, Surgical Instruments/mediastinum
+2651.xml, normal
+2901.xml, Pulmonary Atelectasis/upper lobe/right/mild
+279.xml, normal
+3235.xml, normal
+2106.xml, normal
+3526.xml, Lung/hypoinflation
+213.xml, normal
+3524.xml, normal
+3178.xml, Calcinosis/mitral valve
+1433.xml, Atherosclerosis/mild
+1301.xml, Calcinosis/mediastinum
+1435.xml, normal
+1741.xml, Pleural Effusion/right/focal
+1086.xml, Deformity/ribs/right/posterior
+1.xml, normal
+112.xml, Spinal Fusion/cervical vertebrae
+2684.xml, Calcified Granuloma/lung/lower lobe/left
+2520.xml, Opacity/thorax/multiple/small
+561.xml, normal
+1548.xml, Osteophyte/thoracic vertebrae/multiple/small
+470.xml, normal
+193.xml, Thoracic Vertebrae/degenerative
+249.xml, Mass/lung/middle lobe/right
+1864.xml, Cardiomegaly/borderline
+1413.xml, Lung/hypoinflation
+388.xml, Cardiomegaly
+3233.xml, Lung/hyperdistention/mild
+3787.xml, normal
+160.xml, Opacity/retrocardiac/mild
+662.xml, No Indexing
+3880.xml, Cardiomegaly
+3662.xml, Calcinosis/lung/hilum/lymph nodes/bilateral
+2933.xml, normal
+2306.xml, Thoracic Vertebrae/degenerative/mild
+873.xml, normal
+1800.xml, Lung/bilateral/hyperdistention
+1044.xml, Lung/hyperdistention
+2850.xml, normal
+3262.xml, normal
+1057.xml, normal
+1890.xml, Surgical Instruments
+3953.xml, normal
+2300.xml, normal
+355.xml, Lung/hypoinflation
+1577.xml, Lung/hypoinflation
+1697.xml, normal
+2906.xml, Scoliosis/thoracic vertebrae/right
+3782.xml, normal
+2254.xml, Surgical Instruments/abdomen
+3620.xml, Pulmonary Atelectasis/base/left/mild
+2550.xml, No Indexing
+1961.xml, Cardiomegaly
+1771.xml, No Indexing
+3909.xml, Catheters, Indwelling/right
+942.xml, Calcinosis/blood vessels
+2320.xml, Thoracic Vertebrae/degenerative/mild
+2682.xml, Cardiomegaly
+3639.xml, normal
+2470.xml, normal
+2737.xml, Diaphragm/left/elevated/mild
+287.xml, normal
+2373.xml, Pulmonary Artery/enlarged
+682.xml, Surgical Instruments/lung/hilum/right
+2551.xml, normal
+2795.xml, Markings/lung/bilateral/diffuse/reticular/round
+3385.xml, normal
+2324.xml, normal
+3676.xml, Cardiac Shadow/irregular
+3893.xml, Lung/hypoinflation/mild
+3790.xml, Lung/hypoinflation
+2263.xml, Cardiomegaly/moderate
+2803.xml, Lung/hypoinflation
+3169.xml, Lung/hyperdistention
+1692.xml, Lung/hypoinflation
+1108.xml, Lung/hyperdistention
+3321.xml, normal
+1674.xml, normal
+3474.xml, Markings/lung/lower lobe/hilum/right/bronchovascular
+7.xml, Pulmonary Atelectasis/base
+607.xml, Calcinosis/lung/bilateral/scattered
+1949.xml, Pulmonary Emphysema
+491.xml, Pulmonary Atelectasis/base/bilateral
+1130.xml, Calcified Granuloma/lung/base/right
+1439.xml, Opacity/lung/base/left
+97.xml, Spondylosis/thoracic vertebrae
+2892.xml, Calcified Granuloma/lung/lower lobe/left/multiple
+3941.xml, Cardiomegaly
+94.xml, normal
+1683.xml, Lung/hypoinflation
+3367.xml, normal
+2848.xml, Cardiomegaly/mild
+1446.xml, Pulmonary Fibrosis/upper lobe/left
+2068.xml, normal
+2363.xml, Opacity/lung/base/right
+2722.xml, Lung/hypoinflation
+2430.xml, Bone Diseases, Metabolic/thoracic vertebrae
+1276.xml, Calcified Granuloma/lung/upper lobe/right/multiple
+1037.xml, Calcinosis/aorta, thoracic
+1121.xml, Fractures, Bone/ribs/multiple/healed
+1229.xml, Lung/hyperdistention
+3681.xml, Lung/hypoinflation
+2607.xml, Lung/hyperdistention
+1024.xml, normal
+1899.xml, normal
+2962.xml, Scoliosis/thoracic vertebrae/left/mild
+1036.xml, Thoracic Vertebrae/degenerative/mild
+840.xml, Pulmonary Atelectasis/upper lobe/left
+1304.xml, normal
+3536.xml, Cardiomegaly
+2999.xml, Opacity/lung/base/left/patchy
+1655.xml, normal
+2825.xml, normal
+1136.xml, normal
+1633.xml, normal
+3045.xml, normal
+1366.xml, normal
+3729.xml, normal
+3350.xml, normal
+3206.xml, normal
+129.xml, normal
+935.xml, normal
+2409.xml, Opacity/lung/base/bilateral/interstitial
+1544.xml, normal
+267.xml, Airspace Disease/lung/bilateral/scattered/patchy/multiple/mild
+541.xml, Lumbar Vertebrae/degenerative/mild
+2034.xml, Opacity/lung/lower lobe/right
+3155.xml, Cardiomegaly/mild
+443.xml, Thoracic Vertebrae/degenerative
+3735.xml, Atherosclerosis/aorta
+261.xml, normal
+2969.xml, Atherosclerosis/aorta
+3409.xml, normal
+2400.xml, Cardiomegaly
+826.xml, normal
+1213.xml, Medical Device
+3467.xml, Calcinosis/aorta, thoracic
+132.xml, Aorta, Thoracic/tortuous
+3013.xml, Cardiac Shadow/enlarged/mild
+1573.xml, normal
+1554.xml, Thoracic Vertebrae/degenerative/multiple
+2694.xml, normal
+3405.xml, Spine/degenerative/mild
+772.xml, Surgical Instruments/mediastinum
+164.xml, normal
+2928.xml, Lucency/retrocardiac
+2279.xml, Cardiomegaly
+3800.xml, Implanted Medical Device/left
+412.xml, Pulmonary Emphysema/bilateral
+8.xml, normal
+3736.xml, Thoracic Vertebrae/degenerative/mild
+3852.xml, Diaphragmatic Eventration/right
+718.xml, Scoliosis/mild
+2882.xml, Cardiomegaly/mild
+612.xml, Spinal Fusion/cervical vertebrae
+219.xml, normal
+2234.xml, Emphysema
+3177.xml, Lung/hyperdistention
+529.xml, normal
+2021.xml, Cardiomegaly/borderline
+2668.xml, normal
+2780.xml, No Indexing
+1437.xml, Lung/hyperdistention
+3933.xml, No Indexing
+2248.xml, normal
+1605.xml, normal
+3773.xml, normal
+2851.xml, normal
+1463.xml, normal
+14.xml, Lung/hyperdistention/mild
+451.xml, Calcinosis/mediastinum/lymph nodes
+962.xml, normal
+2257.xml, Thoracic Vertebrae/degenerative
+2770.xml, normal
+38.xml, normal
+3668.xml, Infiltrate/lung/lingula/round
+3837.xml, normal
+2922.xml, Lung/hyperdistention
+921.xml, normal
+3291.xml, normal
+2831.xml, Pneumothorax
+1920.xml, normal
+2757.xml, Implanted Medical Device
+2057.xml, Implanted Medical Device/left
+3659.xml, Calcified Granuloma
+3918.xml, Lung/hyperdistention
+829.xml, normal
+3316.xml, Emphysema
+685.xml, Stents/coronary vessels
+1832.xml, Cardiomegaly
+379.xml, Catheters, Indwelling/right
+2619.xml, Osteophyte/thoracic vertebrae/degenerative
+479.xml, normal
+843.xml, Calcified Granuloma/lung/lower lobe/right
+3783.xml, normal
+3827.xml, normal
+654.xml, normal
+2484.xml, Medical Device
+553.xml, Calcified Granuloma/scattered
+3598.xml, normal
+1954.xml, normal
+333.xml, Lung/hyperdistention/mild
+871.xml, normal
+3359.xml, normal
+3818.xml, normal
+3947.xml, Catheters, Indwelling/left
+3539.xml, normal
+3573.xml, Aorta, Thoracic/tortuous/mild
+1014.xml, Cardiomegaly/mild
+876.xml, Density/lung/lower lobe
+2709.xml, Opacity/lung/base/left
+2711.xml, Catheters, Indwelling/right
+953.xml, Cardiomegaly
+906.xml, Cardiomegaly/mild
+2378.xml, Calcified Granuloma/lung/lower lobe/left
+410.xml, Scoliosis/thoracic vertebrae/left/mild
+3551.xml, Nodule/lung/lower lobe/left
+3835.xml, Mediastinum/right/paratracheal/enlarged
+1882.xml, normal
+544.xml, normal
+174.xml, Catheters, Indwelling
+228.xml, Subcutaneous Emphysema/neck/bilateral
+2915.xml, normal
+178.xml, Atherosclerosis/aorta, thoracic
+1177.xml, Scoliosis/thoracic vertebrae
+2786.xml, normal
+918.xml, normal
+2124.xml, Thoracic Vertebrae/degenerative
+3535.xml, normal
+630.xml, normal
+2436.xml, normal
+526.xml, Cardiomegaly/mild
+2695.xml, Lung/hyperdistention
+1215.xml, Catheters, Indwelling
+2738.xml, Aorta/tortuous/mild
+1386.xml, Pulmonary Artery/bilateral/prominent
+209.xml, Aorta/tortuous/mild
+2832.xml, Cardiomegaly
+438.xml, normal
+2883.xml, Cardiomegaly
+2613.xml, Lung/hyperdistention/mild
+1624.xml, Cardiomegaly/mild
+1346.xml, Catheters, Indwelling/right
+3584.xml, Lung/hypoinflation
+3432.xml, Cardiomegaly
+1742.xml, Cardiomegaly/mild
+133.xml, normal
+1878.xml, Calcified Granuloma
+55.xml, Lung/hypoinflation
+944.xml, Aorta/tortuous/mild
+954.xml, Lung/hyperdistention
+1560.xml, normal
+2945.xml, Markings/lung/bilateral/interstitial/diffuse
+1600.xml, Fractures, Bone/clavicle/right/healed
+1203.xml, Opacity/lung/upper lobe/left/patchy
+430.xml, normal
+1096.xml, normal
+3026.xml, normal
+2525.xml, Cicatrix/lung/base/left
+186.xml, normal
+2650.xml, Implanted Medical Device/left
+1790.xml, normal
+887.xml, normal
+951.xml, normal
+1271.xml, Lung/hypoinflation
+3845.xml, normal
+1839.xml, Granulomatous Disease
+20.xml, normal
+3035.xml, Pleural Effusion/left
+952.xml, Calcified Granuloma
+2399.xml, Pulmonary Atelectasis
+3644.xml, Aorta, Thoracic/tortuous
+3126.xml, normal
+1772.xml, Cardiomegaly/mild
+3495.xml, normal
+1237.xml, Opacity/lung/base/left
+3303.xml, Opacity/lung/upper lobe/right/round
+3826.xml, normal
+3896.xml, Lung/hypoinflation
+3966.xml, Thoracic Vertebrae/degenerative/mild
+924.xml, Pulmonary Atelectasis/base/bilateral
+639.xml, normal
+340.xml, Cardiomegaly/moderate
+2880.xml, normal
+3596.xml, Catheters, Indwelling/thorax/right
+2242.xml, Diaphragm/bilateral/elevated
+854.xml, Fractures, Bone/clavicle/left/healed
+948.xml, Cardiomegaly/borderline
+2615.xml, Cardiomegaly/moderate
+1669.xml, Calcinosis/aorta
+3205.xml, normal
+1364.xml, normal
+2155.xml, Lung/hypoinflation
+2418.xml, Calcinosis/aorta
+2440.xml, Atherosclerosis/aorta
+3114.xml, normal
+124.xml, Pleural Effusion/left/large
+815.xml, normal
+2874.xml, Calcified Granuloma/lung/base/right
+1152.xml, Cardiomegaly
+550.xml, normal
+1784.xml, Calcinosis/lymph nodes/right/paratracheal
+1124.xml, Atherosclerosis/aorta
+1421.xml, Cicatrix/lung/apex/right
+3558.xml, Implanted Medical Device
+2852.xml, normal
+1919.xml, Lung/hyperdistention
+336.xml, normal
+1680.xml, Calcinosis/lung/hilum/lymph nodes/left
+620.xml, Cicatrix/lung/lower lobe/left
+2631.xml, Implanted Medical Device/humerus/right
+1889.xml, Diaphragm/right/elevated
+23.xml, normal
+2610.xml, Lung/hyperdistention
+390.xml, Aorta/tortuous/mild
+2078.xml, normal
+926.xml, normal
+838.xml, Heart/apex/prominent
+28.xml, Opacity/lung/base/bilateral/scattered/focal/patchy/multiple
+754.xml, No Indexing
+1025.xml, Calcified Granuloma/lung/base/right
+2637.xml, Cardiomegaly
+15.xml, Granulomatous Disease
+2666.xml, Lung/hyperdistention
+2661.xml, Cardiomegaly/mild
+2810.xml, Aorta/tortuous/mild
+1308.xml, normal
+2530.xml, Aorta/prominent
+1766.xml, normal
+2585.xml, Costophrenic Angle/right/blunted/mild
+1539.xml, normal
+2907.xml, Cicatrix/lung/apex/bilateral
+1359.xml, normal
+1264.xml, normal
+3417.xml, Lung/hyperdistention
+581.xml, normal
+2692.xml, normal
+3039.xml, normal
+2467.xml, Opacity/lung/upper lobe/right/round/multiple/small
+2980.xml, Calcified Granuloma/scattered/multiple
+2768.xml, normal
+1928.xml, normal
+2244.xml, normal
+244.xml, normal
+740.xml, normal
+2934.xml, Lung, Hyperlucent/bilateral/mild
+465.xml, Opacity/lung/lower lobe/right/patchy
+3317.xml, normal
+3540.xml, Lung/hyperdistention
+3204.xml, Atherosclerosis/aorta
+1430.xml, Opacity/lung/base/bilateral/patchy/mild
+3754.xml, normal
+2481.xml, Aorta/tortuous
+1732.xml, normal
+3365.xml, normal
+3394.xml, Cicatrix/lung/base/left
+3076.xml, Lung/hypoinflation
+3599.xml, Aorta/tortuous
+576.xml, Technical Quality of Image Unsatisfactory 
+1671.xml, normal
+3848.xml, Cardiomegaly/severe
+2236.xml, normal
+1826.xml, normal
+863.xml, normal
+2016.xml, normal
+2252.xml, normal
+3425.xml, Implanted Medical Device/left
+139.xml, Cardiac Shadow/enlarged/mild
+3153.xml, Lung/hyperdistention
+2268.xml, Cardiomegaly
+528.xml, Airspace Disease/lung/bilateral/patchy/severe
+1591.xml, Lung/hypoinflation
+1549.xml, normal
+1843.xml, normal
+3057.xml, Atherosclerosis/aorta, thoracic
+1327.xml, Thoracic Vertebrae/degenerative
+102.xml, Lung/hyperdistention
+439.xml, Calcinosis/lung/base/right/small
+618.xml, normal
+3512.xml, Spondylosis/thoracic vertebrae
+2828.xml, Lung/hyperdistention
+1356.xml, normal
+3488.xml, Spine/degenerative
+3414.xml, Cardiomegaly/mild
+780.xml, Lung, Hyperlucent/base/right
+3724.xml, normal
+1394.xml, Nodule/thorax/left
+1989.xml, Medical Device
+88.xml, Cardiomegaly/mild
+3318.xml, Granulomatous Disease
+1585.xml, Surgical Instruments/mediastinum
+1824.xml, normal
+227.xml, Cardiomegaly
+1561.xml, normal
+1844.xml, Lung/hyperdistention
+519.xml, normal
+493.xml, Calcinosis/lymph nodes/bilateral
+1385.xml, Fractures, Bone/ribs/left/multiple/healed
+322.xml, Markings/lung/interstitial/chronic
+2717.xml, Spondylosis/thoracic vertebrae
+3828.xml, No Indexing
+2721.xml, Calcified Granuloma/scattered/multiple
+3700.xml, Cardiomegaly
+3619.xml, normal
+1029.xml, Scoliosis
+1792.xml, Opacity/lung/base/left/streaky
+2088.xml, Cardiomegaly
+3010.xml, normal
+130.xml, Deformity/thoracic vertebrae
+3502.xml, Surgical Instruments/thorax
+239.xml, normal
+3961.xml, Opacity/lung/upper lobe/right/streaky
+628.xml, Aorta/tortuous
+1942.xml, Cardiomegaly/moderate
+1934.xml, Diaphragm/left/elevated/chronic
+2858.xml, Aorta/tortuous
+1956.xml, normal
+3282.xml, Lung/bilateral/hypoinflation
+3654.xml, Opacity/lung/upper lobe/right/round
+3997.xml, Opacity/lung/upper lobe/right/round/small
+116.xml, Calcified Granuloma/lung/base/left/small
+1292.xml, Cardiomegaly/borderline
+974.xml, Pulmonary Congestion/mild
+3877.xml, Atherosclerosis/aorta, thoracic
+3999.xml, normal
+136.xml, normal
+3083.xml, normal
+1158.xml, Cardiomegaly/mild
+1819.xml, Cardiomegaly
+2099.xml, normal
+912.xml, normal
+1943.xml, Calcified Granuloma/bilateral/scattered/multiple
+3747.xml, normal
+1444.xml, Fractures, Bone/ribs/left/healed
+1370.xml, Opacity/lung/right
+2554.xml, Lung/hyperdistention/mild
+1341.xml, Catheters, Indwelling/right
+3116.xml, Cardiac Shadow/enlarged
+3377.xml, normal
+1035.xml, Opacity/lung/hilum/prominent
+2529.xml, normal
+658.xml, normal
+79.xml, normal
+663.xml, normal
+302.xml, Scoliosis/mild
+715.xml, Diaphragm/right/elevated/chronic
+645.xml, Spine/degenerative
+2593.xml, Cardiomegaly/mild
+3479.xml, Cardiomegaly
+308.xml, Diaphragm/right/elevated
+2787.xml, normal
+3147.xml, normal
+3771.xml, normal
+2938.xml, normal
+2485.xml, Airspace Disease/lung/lower lobe/bilateral
+108.xml, Lung/hypoinflation
+1622.xml, normal
+2518.xml, Osteophyte/thoracic vertebrae/multiple
+3015.xml, normal
+3655.xml, Nodule/lung/upper lobe/right
+1836.xml, Atherosclerosis/aorta
+1462.xml, normal
+3008.xml, normal
+3285.xml, normal
+3948.xml, normal
+401.xml, Costophrenic Angle/left/blunted
+2181.xml, Cardiomegaly/moderate
+853.xml, normal
+3283.xml, normal
+100.xml, normal
+245.xml, Pneumonia/upper lobe/left
+437.xml, Cardiomegaly
+3689.xml, Calcinosis/aorta
+1133.xml, Lung/hyperdistention
+2289.xml, Costophrenic Angle/left/blunted
+578.xml, Granulomatous Disease
+2830.xml, Surgical Instruments/abdomen
+2121.xml, Aorta, Thoracic/tortuous
+2968.xml, Mass/right/paratracheal
+869.xml, normal
+2408.xml, Opacity/lung/base/bilateral/streaky
+3794.xml, Opacity/ribs/left/anterior/round
+1347.xml, normal
+2979.xml, Calcinosis/mediastinum/lymph nodes
+1048.xml, Thoracic Vertebrae/degenerative
+274.xml, Aorta, Thoracic/tortuous
+3356.xml, Calcified Granuloma/lung/middle lobe/right
+3980.xml, Cardiomegaly/moderate
+2196.xml, Spine/degenerative
+3767.xml, normal
+1803.xml, Aorta, Thoracic/prominent/mild
+3846.xml, Pleural Effusion/left/moderate
+3243.xml, Opacity/lung/bilateral/interstitial/diffuse/reticular/round/severe
+1502.xml, normal
+909.xml, normal
+1218.xml, normal
+3589.xml, Lung/hypoinflation/mild
+1232.xml, Implanted Medical Device/left
+1154.xml, Arthritis/humerus/left
+665.xml, Cardiomegaly
+2801.xml, Lung/base/bilateral/hypoinflation/mild
+3190.xml, Density/lung/hilum/right
+152.xml, Cardiomegaly/mild
+987.xml, No Indexing
+1838.xml, Diaphragm/right/elevated
+158.xml, normal
+2315.xml, Calcified Granuloma/lung/lingula
+3069.xml, Airspace Disease/lung/upper lobe/right
+511.xml, Lung/hyperdistention
+573.xml, Surgical Instruments
+47.xml, Stents/coronary vessels
+3978.xml, normal
+563.xml, normal
+2232.xml, normal
+1905.xml, Cardiac Shadow/enlarged
+1881.xml, Atherosclerosis/aorta
+2526.xml, normal
+2492.xml, Atherosclerosis/aorta, thoracic
+466.xml, Aorta/tortuous/mild
+1185.xml, Medical Device/left
+2992.xml, Calcified Granuloma/lung/base/right
+631.xml, Catheters, Indwelling/right
+1855.xml, Airspace Disease/lung/base/left/focal
+1209.xml, normal
+2635.xml, normal
+1042.xml, normal
+2943.xml, Costophrenic Angle/left/blunted/mild
+3017.xml, Opacity/lung/base/bilateral/mild
+2940.xml, Thoracic Vertebrae/degenerative
+1639.xml, Aorta/tortuous/mild
+307.xml, normal
+3351.xml, Implanted Medical Device
+269.xml, normal
+1900.xml, Calcinosis/aorta
+1097.xml, Granulomatous Disease
+3284.xml, normal
+360.xml, normal
+2997.xml, normal
+1244.xml, Opacity/lung/base/bilateral
+3544.xml, Opacity/lung/base/right
+601.xml, Catheters, Indwelling/right
+346.xml, normal
+1524.xml, Aorta/tortuous
+3629.xml, normal
+2466.xml, normal
+3393.xml, Nodule/lung/lingula
+2445.xml, normal
+3938.xml, normal
+192.xml, Lung/hypoinflation
+979.xml, Lung/hyperdistention
+817.xml, Opacity/lung/upper lobe/left
+2755.xml, Pneumonectomy/lung/lower lobe/right
+318.xml, normal
+2403.xml, Pulmonary Atelectasis/base/left
+1206.xml, normal
+994.xml, normal
+1749.xml, Implanted Medical Device
+975.xml, Lung, Hyperlucent/apex/right
+898.xml, No Indexing
+2887.xml, Opacity/lung/base/bilateral/multiple
+643.xml, Fractures, Bone/ribs/left/healed
+2233.xml, Lung/hyperdistention
+1146.xml, Calcified Granuloma/lung/lingula
+1875.xml, Aorta/tortuous/mild
+638.xml, Pneumonia/lower lobe/right/anterior
+2578.xml, Sclerosis
+1372.xml, Mediastinum/prominent/mild
+1895.xml, Technical Quality of Image Unsatisfactory 
+2958.xml, Volume Loss/lung/upper lobe/right
+2053.xml, normal
+1594.xml, normal
+2912.xml, Pulmonary Congestion
+127.xml, Calcified Granuloma/lung/base/left
+338.xml, normal
+2238.xml, normal
+321.xml, Opacity/lung/left
+3412.xml, No Indexing
+3610.xml, normal
+3212.xml, normal
+2302.xml, normal
+3807.xml, Pneumonectomy/lung/upper lobe/left
+403.xml, Fractures, Bone/ribs/right/multiple/healed
+3517.xml, Atherosclerosis/aorta
+712.xml, Lung/hyperdistention/mild
+1821.xml, Thoracic Vertebrae/degenerative
+1977.xml, Pulmonary Atelectasis/base/left/mild
+957.xml, Shoulder/left/degenerative
+3494.xml, Lung/hypoinflation
+2267.xml, Technical Quality of Image Unsatisfactory 
+2670.xml, Lung/hyperdistention
+498.xml, Mass/lung/upper lobe/right/large
+2028.xml, normal
+1166.xml, Lung/hypoinflation
+469.xml, Scoliosis/lumbar vertebrae
+1432.xml, Spine/degenerative
+3878.xml, Cardiomegaly/mild
+3678.xml, Costophrenic Angle/bilateral/blunted/mild
+2465.xml, Cardiomegaly/mild
+532.xml, normal
+1443.xml, Markings/lung/bilateral/interstitial
+2719.xml, Opacity/lung/interstitial/round/prominent
+1098.xml, Lung/hyperdistention
+1923.xml, Lung/hyperdistention
+2772.xml, normal
+2491.xml, normal
+1570.xml, Technical Quality of Image Unsatisfactory 
+523.xml, normal
+2199.xml, Catheters, Indwelling/right
+1390.xml, Catheters, Indwelling
+3996.xml, Spine/degenerative
+2023.xml, normal
+3789.xml, Cardiomegaly/mild
+3672.xml, Implanted Medical Device/aortic valve
+2522.xml, Cicatrix/lung/base/bilateral/chronic
+3720.xml, normal
+3390.xml, normal
+1457.xml, Implanted Medical Device
+1488.xml, normal
+128.xml, Granulomatous Disease
+3354.xml, Lung/hyperdistention
+1171.xml, Lung/hypoinflation
+3912.xml, Technical Quality of Image Unsatisfactory 
+2771.xml, normal
+1567.xml, Opacity/lung/lingula
+2994.xml, normal
+3921.xml, Catheters, Indwelling/left
+2187.xml, Aorta/tortuous
+2764.xml, normal
+3688.xml, Catheters, Indwelling/left
+3591.xml, Hernia, Hiatal/moderate
+2759.xml, Thoracic Vertebrae/degenerative/mild
+1756.xml, normal
+1812.xml, normal
+3743.xml, No Indexing
+3628.xml, Thoracic Vertebrae/degenerative/multiple
+320.xml, normal
+216.xml, Cardiac Shadow/enlarged
+649.xml, Opacity/lung/base/left/chronic/mild
+2294.xml, normal
+3192.xml, Lung/hilum/left/prominent/mild
+897.xml, Opacity/lung/base/bilateral/interstitial/patchy
+1684.xml, normal
+1223.xml, Foreign Bodies/thorax/left
+633.xml, Spine/degenerative/multiple
+3718.xml, Pulmonary Artery/prominent/mild
+3433.xml, normal
+3492.xml, Lung/hyperdistention
+2760.xml, Cicatrix/lung/base/left/mild
+1078.xml, normal
+675.xml, Spondylosis/thoracic vertebrae
+3421.xml, Aorta, Thoracic/tortuous/mild
+2538.xml, normal
+3626.xml, Pleural Effusion/bilateral
+3406.xml, Calcified Granuloma/lung/lingula
+3349.xml, Lung/hyperdistention
+3049.xml, normal
+3156.xml, normal
+2429.xml, Mediastinum/right/enlarged/mild
+2656.xml, Granulomatous Disease
+2570.xml, Cardiac Shadow/enlarged
+362.xml, normal
+1225.xml, Aorta, Thoracic/tortuous/mild
+1913.xml, Thoracic Vertebrae/degenerative/mild
+168.xml, Thoracic Vertebrae/degenerative/multiple/mild
+503.xml, normal
+3314.xml, normal
+3145.xml, normal
+3583.xml, Spine/degenerative/mild
+3298.xml, normal
+3986.xml, normal
+3375.xml, Thoracic Vertebrae/degenerative
+2870.xml, normal
+1338.xml, No Indexing
+2796.xml, normal
+1279.xml, Catheters, Indwelling/right
+1602.xml, normal
+3682.xml, Lung/hypoinflation
+2246.xml, Airspace Disease/lung/base/right
+3358.xml, normal
+1201.xml, Cardiac Shadow/enlarged/moderate
+3885.xml, normal
+739.xml, normal
+1751.xml, normal
+1555.xml, Diaphragm/right/elevated
+545.xml, Opacity/lung/base/bilateral
+3731.xml, normal
+3240.xml, Lung/hyperdistention
+2627.xml, Diaphragm/right/elevated/mild
+1869.xml, Medical Device/left
+123.xml, Cardiomegaly/mild
+2382.xml, Cardiomegaly/moderate
+3020.xml, normal
+3702.xml, Lung/hyperdistention
+126.xml, Opacity/lung/base/left
+2046.xml, Fractures, Bone/ribs/right/multiple
+2576.xml, Pneumonectomy/lung/upper lobe/left
+3448.xml, Lung/hyperdistention
+1273.xml, Cardiomegaly/mild
+2204.xml, No Indexing
+2752.xml, Cardiac Shadow/enlarged/mild
+765.xml, No Indexing
+1828.xml, normal
+2867.xml, Lucency/lung
+2736.xml, Spinal Fusion/posterior
+599.xml, Aorta/tortuous/mild
+3183.xml, normal
+2178.xml, Sclerosis/thoracic vertebrae/mild
+1333.xml, Hernia, Diaphragmatic
+3562.xml, Granulomatous Disease
+3330.xml, normal
+3710.xml, No Indexing
+1069.xml, Lung/hyperdistention/mild
+3975.xml, No Indexing
+2177.xml, Cardiac Shadow/enlarged
+2453.xml, normal
+1254.xml, normal
+517.xml, Granuloma/lung/base/right
+1936.xml, Catheters, Indwelling/left
+3507.xml, Scoliosis/thoracic vertebrae/right/mild
+42.xml, normal
+1728.xml, Opacity/lung/upper lobe/right/focal
+2696.xml, Cardiomegaly
+1564.xml, Stents/coronary vessels
+3181.xml, normal
+696.xml, normal
+1406.xml, Lung/hyperdistention
+2356.xml, Lung/hypoinflation
+1173.xml, Atherosclerosis/aorta
+3301.xml, normal
+1113.xml, Lung/hyperdistention
+1623.xml, normal
+589.xml, normal
+3605.xml, normal
+1835.xml, Lung/hypoinflation
+3955.xml, normal
+2636.xml, Thoracic Vertebrae/degenerative/mild
+3881.xml, Diaphragm/right/elevated
+3436.xml, Lung/hyperdistention
+3832.xml, Calcinosis/mediastinum/lymph nodes
+2599.xml, Opacity/lung/apex/left/irregular
+2486.xml, Epicardial Fat/prominent
+221.xml, Atherosclerosis/aorta
+3745.xml, normal
+3625.xml, normal
+858.xml, Granulomatous Disease
+3184.xml, Aorta/tortuous/mild
+1682.xml, Mediastinum/paratracheal/enlarged 
+3579.xml, No Indexing
+2326.xml, Cardiomegaly/mild
+3737.xml, normal
+2568.xml, Surgical Instruments/abdomen/right
+1827.xml, normal
+1750.xml, Calcinosis/aorta, thoracic
+1980.xml, normal
+1300.xml, normal
+2286.xml, Opacity/multiple/chronic
+1809.xml, normal
+3464.xml, No Indexing
+1043.xml, Pleural Effusion/bilateral/small
+3252.xml, normal
+1706.xml, Lung/hypoinflation
+2288.xml, normal
+3119.xml, normal
+752.xml, Calcified Granuloma/scattered
+3046.xml, Opacity/lung/hilum/left/round
+335.xml, Catheters, Indwelling/left
+919.xml, Calcified Granuloma/lung/upper lobe/right
+929.xml, Opacity/lung/lower lobe/right
+3994.xml, Cardiomegaly/mild
+2805.xml, normal
+3434.xml, normal
+144.xml, Lung/hypoinflation
+3894.xml, normal
+3549.xml, normal
+3905.xml, Cardiomegaly
+774.xml, Lung/hyperdistention/mild
+2535.xml, normal
+3673.xml, Calcinosis/aorta
+2762.xml, Granulomatous Disease
+693.xml, Calcinosis/lung/hilum/lymph nodes
+1722.xml, Lung/hyperdistention
+1847.xml, Calcified Granuloma/mediastinum/large
+1522.xml, normal
+3044.xml, Medical Device/thorax
+1783.xml, Lung/hyperdistention/mild
+2218.xml, Opacity/lung/base/left
+1720.xml, Lung/hypoinflation/severe
+1006.xml, normal
+1483.xml, Diaphragmatic Eventration/right
+2358.xml, normal
+2536.xml, Surgical Instruments/mediastinum
+2909.xml, Airspace Disease/lung/lingula/patchy
+3249.xml, Pleural Effusion/bilateral
+3149.xml, Lung/hyperdistention
+759.xml, Aorta, Thoracic/tortuous
+3882.xml, Diaphragmatic Eventration/left
+2024.xml, normal
+241.xml, normal
+494.xml, Opacity/lung/base/left
+1143.xml, Thickening/bronchovascular
+732.xml, Lung/hyperdistention
+533.xml, Mediastinum/prominent
+2948.xml, normal
+3445.xml, normal
+44.xml, normal
+927.xml, Aorta, Thoracic/tortuous
+3191.xml, Cardiomegaly/borderline
+2693.xml, Lung/hypoinflation
+525.xml, Fractures, Bone/ribs/right
+2612.xml, normal
+1194.xml, Aorta/tortuous/mild
+955.xml, Catheters, Indwelling/right
+3106.xml, normal
+2616.xml, Costophrenic Angle/sulcus/right/blunted
+2043.xml, Technical Quality of Image Unsatisfactory 
+2702.xml, Cardiomegaly
+3416.xml, Pulmonary Atelectasis/base/left/patchy
+1081.xml, Lung/hyperdistention
+621.xml, Spine/degenerative/mild
+3038.xml, Calcified Granuloma/lung/upper lobe/left
+973.xml, Atherosclerosis/aorta
+3588.xml, normal
+3374.xml, Nodule/lung/lower lobe/left
+3446.xml, normal
+3834.xml, Scoliosis/thoracic vertebrae
+3793.xml, Thoracic Vertebrae/scattered/degenerative
+1719.xml, normal
+1128.xml, Pleural Effusion/costophrenic angle/left
+585.xml, Epicardial Fat/prominent
+3615.xml, Tube, Inserted/trachea, carina
+3924.xml, Atherosclerosis/aorta
+778.xml, Calcified Granuloma
+562.xml, normal
+2365.xml, normal
+297.xml, Lung/hypoinflation
+773.xml, Calcinosis/lung/hilum/lymph nodes/right
+2895.xml, normal
+856.xml, Technical Quality of Image Unsatisfactory 
+3097.xml, Calcinosis/blood vessels
+3565.xml, Opacity/lung/middle lobe/right/severe
+566.xml, normal
+2974.xml, Aorta/tortuous
+881.xml, normal
+655.xml, Lung/hyperdistention
+2017.xml, normal
+1518.xml, normal
+2688.xml, Cardiomegaly/mild
+3870.xml, Opacity/lung/lower lobe/bilateral
+3593.xml, normal
+363.xml, normal
+264.xml, normal
+1220.xml, Lung/bilateral/hyperdistention
+2333.xml, Calcified Granuloma/lung/base/right
+482.xml, Tube, Inserted
+1349.xml, Calcified Granuloma
+3217.xml, Cavitation/lung/apex/right
+2917.xml, Lung/hyperdistention
+1676.xml, Atherosclerosis/aorta
+2140.xml, Calcinosis/lung/hilum/lymph nodes/left
+409.xml, Opacity/lung/interstitial
+653.xml, Spine/degenerative/mild
+3305.xml, Catheters, Indwelling/right
+3109.xml, normal
+842.xml, normal
+27.xml, Lung/hyperdistention
+884.xml, Calcified Granuloma/lung/base/right
+3663.xml, normal
+996.xml, normal
+1041.xml, Lucency/ribs/left/posterior
+2100.xml, Atherosclerosis/aorta
+1634.xml, Calcified Granuloma/multiple
+1681.xml, normal
+3957.xml, normal
+1725.xml, Opacity/lung/base/right
+3891.xml, Airspace Disease/lung/base/left
+828.xml, Lung/hypoinflation
+2259.xml, Humerus/bilateral/degenerative
+3371.xml, Calcinosis/lung/hilum/lymph nodes/right
+1571.xml, Pleural Effusion/base/left
+3271.xml, normal
+1833.xml, Pulmonary Atelectasis/base/left
+3761.xml, Cardiomegaly/mild
+582.xml, normal
+394.xml, Opacity/lung/lower lobe/right/large
+201.xml, Opacity/lung/middle lobe/right/mild
+2827.xml, Tube, Inserted/trachea, carina
+516.xml, Calcified Granuloma/lung/hilum/right
+2075.xml, normal
+3939.xml, normal
+1009.xml, normal
+3241.xml, Pulmonary Atelectasis/base/left
+1921.xml, Pulmonary Disease, Chronic Obstructive
+3850.xml, Nipple Shadow/bilateral
+745.xml, Atherosclerosis/aorta
+726.xml, Density/lung/hilum/right/prominent
+2110.xml, normal
+155.xml, Aorta/prominent
+613.xml, No Indexing
+2074.xml, Lung/hypoinflation
+1860.xml, Scoliosis/lumbar vertebrae/left
+749.xml, Granuloma/lung/bilateral/scattered
+2020.xml, normal
+1558.xml, Lung/hypoinflation
+2653.xml, Thoracic Vertebrae/degenerative/mild
+3215.xml, normal
+1574.xml, normal
+2549.xml, normal
+2205.xml, Aorta/tortuous
+180.xml, Implanted Medical Device
+2634.xml, Thoracic Vertebrae/degenerative/moderate
+421.xml, normal
+195.xml, normal
+398.xml, Calcinosis/right/paratracheal
+1778.xml, normal
+695.xml, Diaphragm/right/elevated/mild
+224.xml, normal
+2290.xml, normal
+624.xml, Lung/hyperdistention
+524.xml, Implanted Medical Device/right
+3040.xml, Thoracic Vertebrae/degenerative/mild
+930.xml, Lung/hypoinflation
+2991.xml, normal
+3563.xml, normal
+2836.xml, Medical Device
+748.xml, normal
+552.xml, Osteophyte/thoracic vertebrae/multiple
+3734.xml, normal
+2700.xml, Calcified Granuloma/mediastinum/multiple
+1929.xml, Fractures, Bone/humerus/right
+1249.xml, Calcified Granuloma/lung/lower lobe/left/multiple
+1593.xml, Pleural Effusion/right/moderate
+59.xml, Diaphragm/left/elevated
+57.xml, Tube, Inserted/trachea, carina
+1028.xml, normal
+3353.xml, Cardiomegaly/severe
+2247.xml, normal
+481.xml, Catheters, Indwelling/left
+2814.xml, Cardiomegaly
+993.xml, normal
+2446.xml, Aorta/tortuous
+2367.xml, normal
+792.xml, normal
+2007.xml, Thoracic Vertebrae/degenerative/mild
+3863.xml, Cardiac Shadow/enlarged
+2442.xml, Technical Quality of Image Unsatisfactory 
+2160.xml, normal
+361.xml, normal
+960.xml, Scoliosis/right/mild
+3854.xml, Medical Device
+2932.xml, normal
+1247.xml, Surgical Instruments
+681.xml, Catheters, Indwelling/right
+3890.xml, normal
+423.xml, Lung/hypoinflation
+1267.xml, normal
+569.xml, Diaphragm/left/elevated
+3949.xml, Cardiomegaly/mild
+305.xml, Cardiomegaly/mild
+1322.xml, normal
+3675.xml, normal
+2998.xml, normal
+1095.xml, Kyphosis/thorax/severe
+3343.xml, normal
+1754.xml, Opacity/lung/lower lobe/bilateral/interstitial
+1275.xml, Deformity/ribs/right
+3932.xml, No Indexing
+2879.xml, Cardiomegaly/borderline
+3927.xml, Stents/aorta
+3483.xml, normal
+1288.xml, Epicardial Fat/bilateral/prominent
+2659.xml, normal
+1412.xml, Lung/apex/bilateral/obscured
+3113.xml, Atherosclerosis/aorta
+3050.xml, normal
+2746.xml, Catheters, Indwelling/right
+3348.xml, Cardiomegaly
+1354.xml, Lung/hypoinflation
+3442.xml, Lung/hypoinflation
+72.xml, normal
+2010.xml, normal
+1608.xml, normal
+1515.xml, normal
+3429.xml, Lung/hypoinflation
+3104.xml, normal
+2817.xml, Technical Quality of Image Unsatisfactory 
+3411.xml, Lung/hypoinflation
+3415.xml, Thoracic Vertebrae/degenerative/mild
+1870.xml, Cardiomegaly/severe
+3954.xml, normal
+3345.xml, normal
+2265.xml, Lung/hyperdistention
+2494.xml, Cardiomegaly/mild
+2507.xml, Airspace Disease/lung/base/bilateral
+2150.xml, Nodule/lung/upper lobe/left/small
+3656.xml, Cardiomegaly/borderline
+2685.xml, Diaphragmatic Eventration/right/mild
+2156.xml, normal
+1480.xml, normal
+592.xml, Sulcus/right/posterior/blunted
+3163.xml, normal
+3080.xml, Cavitation/lung/upper lobe/left
+2323.xml, normal
+1964.xml, normal
+1493.xml, Diaphragm/left/elevated
+3382.xml, Markings/lung/interstitial/prominent
+3399.xml, Infiltrate/lung/lower lobe/left/patchy/streaky
+714.xml, Cicatrix/lung/apex/right
+1183.xml, normal
+2036.xml, Cardiomegaly/mild
+3355.xml, Lung/hyperdistention
+317.xml, normal
+2498.xml, No Indexing
+1753.xml, Cardiomegaly
+2775.xml, normal
+2180.xml, Cardiomegaly/severe
+808.xml, Lung/hypoinflation
+2989.xml, Spinal Fusion/cervical vertebrae
+3752.xml, Mediastinum/prominent
+892.xml, Lung/hyperdistention
+2735.xml, normal
+2338.xml, Opacity/lung/middle lobe/bilateral/streaky/mild
+3876.xml, Deformity/thoracic vertebrae/mild
+166.xml, Calcified Granuloma
+3136.xml, normal
+2623.xml, normal
+1902.xml, normal
+690.xml, normal
+1355.xml, Lung/hypoinflation
+3548.xml, normal
+3708.xml, Lung/hypoinflation
+2977.xml, Aorta/tortuous/mild
+651.xml, Surgical Instruments/mediastinum/left
+3363.xml, Opacity/lung/base/bilateral/multiple
+1620.xml, normal
+1759.xml, Lung/hyperdistention
+2116.xml, Fractures, Bone/ribs/bilateral/multiple/healed
+3897.xml, normal
+1377.xml, normal
+319.xml, normal
+3034.xml, Arthritis/cervical vertebrae/multiple
+2791.xml, normal
+334.xml, Calcified Granuloma/lung/lingula/small
+3195.xml, Opacity/lung/base/left
+2849.xml, Implanted Medical Device
+2411.xml, Cardiomegaly/mild
+1952.xml, Lung/hypoinflation
+3292.xml, Opacity/lung/middle lobe/right
+2966.xml, Spine/degenerative
+1425.xml, normal
+3622.xml, Implanted Medical Device/left
+1621.xml, Calcified Granuloma/lung/lower lobe/right
+3532.xml, No Indexing
+298.xml, normal
+1163.xml, normal
+2640.xml, normal
+694.xml, No Indexing
+278.xml, Opacity
+1629.xml, normal
+2587.xml, Catheters, Indwelling/right
+704.xml, normal
+3520.xml, Pulmonary Atelectasis/base/left/streaky/mild
+2162.xml, Cardiac Shadow/enlarged/moderate
+2048.xml, Calcified Granuloma/lung/lower lobe/right/multiple
+3099.xml, Calcinosis/lung/hilum/left
+3289.xml, normal
+2139.xml, Cardiomegaly/mild
+1165.xml, normal
+1291.xml, Lung/hilum/left/prominent/mild
+2405.xml, Cicatrix/lung/apex/right
+705.xml, Diaphragm/right/elevated
+1888.xml, Fractures, Bone
+2311.xml, normal
+304.xml, Technical Quality of Image Unsatisfactory 
+3559.xml, Scoliosis/thoracic vertebrae/left/mild
+2678.xml, normal
+13.xml, Cardiac Shadow/borderline
+1170.xml, Cardiomegaly/mild
+2663.xml, normal
+3847.xml, Lung/bilateral/hyperdistention
+771.xml, normal
+2487.xml, normal
+2784.xml, normal
+969.xml, Aorta/tortuous
+1231.xml, Catheters, Indwelling/left
+1212.xml, normal
+3166.xml, Density/thorax/round/multiple
+3261.xml, normal
+1398.xml, Pulmonary Atelectasis/base/right/mild
+255.xml, normal
+1731.xml, Lung/bilateral/hypoinflation
+3830.xml, normal
+243.xml, normal
+3014.xml, Deformity/lung/hilum/right
+2330.xml, Tube, Inserted/trachea
+1145.xml, Lung/hyperdistention
+1990.xml, Tube, Inserted/trachea
+3200.xml, normal
+2489.xml, Lung/hypoinflation
+2090.xml, normal
+252.xml, normal
+2241.xml, Opacity/lung/apex/bilateral
+1104.xml, Spondylosis/thoracic vertebrae
+1039.xml, normal
+3575.xml, Granuloma/lung/lingula
+949.xml, Calcinosis/lung/hilum/lymph nodes/right
+594.xml, Osteophyte/thoracic vertebrae/multiple
+992.xml, Nodule/lung/bilateral/multiple
+163.xml, Technical Quality of Image Unsatisfactory 
+1079.xml, Lung/hypoinflation
+3570.xml, Pulmonary Atelectasis/middle lobe/right
+3419.xml, Aorta, Thoracic/tortuous/mild
+372.xml, Airspace Disease/lung/left/retrocardiac
+3051.xml, normal
+3111.xml, Cardiomegaly
+3959.xml, No Indexing
+3621.xml, Lung/hypoinflation
+2904.xml, Cardiomegaly/borderline
+3089.xml, normal
+2926.xml, normal
+405.xml, Technical Quality of Image Unsatisfactory 
+2876.xml, normal
+2285.xml, Cardiomegaly
+2179.xml, Diaphragm/bilateral/flattened
+3510.xml, Cardiomegaly/mild
+1687.xml, Tube, Inserted
+2677.xml, Aorta, Thoracic/tortuous/mild
+1138.xml, normal
+352.xml, Thoracic Vertebrae/degenerative/mild
+2478.xml, Lung/hyperdistention
+2683.xml, normal
+2531.xml, Calcified Granuloma/scattered/multiple
+429.xml, normal
+1727.xml, Catheters, Indwelling/right
+2834.xml, Aorta/tortuous/mild
+2908.xml, Markings/lung/interstitial/chronic
+3869.xml, Surgical Instruments/thorax
+2141.xml, Cardiomegaly/mild
+3422.xml, normal
+3857.xml, normal
+2423.xml, normal
+3888.xml, No Indexing
+2280.xml, Nodule/thorax/scattered/multiple/small
+1122.xml, normal
+2916.xml, normal
+3324.xml, Atherosclerosis/aorta
+751.xml, normal
+1052.xml, normal
+3937.xml, Spine/degenerative/mild
+3505.xml, normal
+142.xml, normal
+2207.xml, Aorta, Thoracic/tortuous
+1938.xml, normal
+2604.xml, normal
+886.xml, normal
+3423.xml, Aorta/tortuous
+2047.xml, Calcified Granuloma/lung/lower lobe/right/large
+2011.xml, Contrast Media/abdomen
+1910.xml, Aorta/tortuous/mild
+1851.xml, normal
+3461.xml, normal
+2447.xml, Calcinosis/lung/hilum/lymph nodes/right
+3254.xml, normal
+1660.xml, Lung/hypoinflation
+981.xml, Cardiomegaly/mild
+746.xml, Cicatrix/lung/lingula
+3819.xml, Medical Device
+2439.xml, Lung/hyperdistention
+3930.xml, Lung/hyperdistention
+3286.xml, Lung/hypoinflation
+3260.xml, Cardiomegaly
+303.xml, Lung/hypoinflation/mild
+2626.xml, normal
+2379.xml, Lung, Hyperlucent
+936.xml, normal
+2842.xml, normal
+1525.xml, Hydropneumothorax/left/large
+1811.xml, Cardiomegaly/mild
+3239.xml, normal
+31.xml, Markings/lung/interstitial
+2345.xml, Thoracic Vertebrae/degenerative/chronic/mild
+692.xml, Calcified Granuloma
+3339.xml, normal
+2710.xml, normal
+3592.xml, Lung/hyperdistention/mild
+1909.xml, Infiltrate/lung/middle lobe/right/patchy
+972.xml, Opacity/lung/base/right/reticular/multiple
+777.xml, Aorta, Thoracic/tortuous
+3594.xml, normal
+2488.xml, Calcified Granuloma/lung/middle lobe/right
+3538.xml, normal
+426.xml, Aorta, Thoracic/tortuous
+910.xml, Cardiomegaly/moderate
+3234.xml, normal
+1506.xml, Catheters, Indwelling/left
+2988.xml, normal
+1002.xml, Mastectomy/left
+1856.xml, normal
+2393.xml, Lung/hyperdistention
+762.xml, Calcinosis/lymph nodes
+3168.xml, Deformity/ribs/left/chronic
+1599.xml, Atherosclerosis/aorta
+485.xml, No Indexing
+1445.xml, Diaphragm/right/elevated
+391.xml, Lung/hypoinflation
+861.xml, No Indexing
+1419.xml, Pulmonary Atelectasis/base/bilateral/focal/mild
+107.xml, normal
+1701.xml, normal
+406.xml, Calcinosis/lung/hilum/right
+3556.xml, Atherosclerosis/aorta
+1535.xml, normal
+3096.xml, Density/right/paratracheal/prominent/mild
+212.xml, Lung, Hyperlucent/apex/bilateral
+3459.xml, Spinal Fusion/cervical vertebrae
+2542.xml, normal
+1310.xml, normal
+2841.xml, normal
+691.xml, normal
+2443.xml, Calcinosis/blood vessels
+2115.xml, normal
+2540.xml, normal
+3002.xml, normal
+1852.xml, normal
+359.xml, normal
+1000.xml, Opacity/lung/upper lobe/right
+1387.xml, No Indexing
+3810.xml, Surgical Instruments/lung/apex/left
+218.xml, Calcinosis/aorta
+3825.xml, Spinal Fusion/cervical vertebrae
+1484.xml, Calcified Granuloma/lung/lower lobe/left
+2384.xml, Hernia, Hiatal/large
+2927.xml, Nipple Shadow/bilateral
+3742.xml, Granulomatous Disease
+3.xml, normal
+775.xml, normal
+2473.xml, Lung/hypoinflation
+634.xml, Calcinosis/aorta
+3376.xml, normal
+483.xml, Diaphragm/flattened
+2194.xml, Cardiac Shadow/enlarged
+2918.xml, normal
+687.xml, Lung/hypoinflation
+177.xml, Cardiomegaly
+1637.xml, Thoracic Vertebrae/degenerative/mild
+1726.xml, normal
+950.xml, normal
+3274.xml, Lung/hypoinflation/severe
+2629.xml, normal
+194.xml, Airspace Disease/lung/base/left/mild
+2113.xml, Lung/hyperdistention/mild
+1858.xml, Cardiomegaly/borderline
+1240.xml, Tube, Inserted/left
+3268.xml, normal
+1854.xml, normal
+1449.xml, Cardiac Shadow/enlarged
+3320.xml, normal
+1324.xml, Scoliosis/thoracic vertebrae/right
+1080.xml, Implanted Medical Device/left
+3052.xml, Density/mediastinum
+3795.xml, Scoliosis/thoracic vertebrae/right/moderate
+2307.xml, Lung/hyperdistention
+184.xml, Nodule/lung/apex/right
+3027.xml, Scoliosis/right/mild
+3624.xml, normal
+478.xml, Spondylosis/thoracic vertebrae
+48.xml, Nodule/lung/base/left
+902.xml, Calcified Granuloma/lung/middle lobe/right
+1156.xml, normal
+1580.xml, Lung/hyperdistention/mild
+3631.xml, Technical Quality of Image Unsatisfactory 
+824.xml, Calcified Granuloma
+1407.xml, Granuloma/lung/base/right
+111.xml, Pleural Effusion/right
+2298.xml, Spine/degenerative/chronic
+182.xml, Opacity/lung/lower lobe/left/patchy
+3470.xml, Technical Quality of Image Unsatisfactory 
+1423.xml, Calcinosis/breast implants
+2366.xml, Calcified Granuloma/lung/lower lobe/left
+2376.xml, normal
+1350.xml, normal
+989.xml, Spondylosis/thoracic vertebrae
+3667.xml, Density/lung/upper lobe/left/irregular
+1115.xml, normal
+2000.xml, normal
+487.xml, normal
+3779.xml, normal
+2127.xml, Cardiomegaly/mild
+3914.xml, normal
+1579.xml, normal
+2961.xml, Opacity/lung/base/left/patchy
+1181.xml, Implanted Medical Device
+707.xml, normal
+1541.xml, Cardiomegaly/borderline
+3159.xml, Cardiomegaly/moderate
+965.xml, normal
+1094.xml, Density/lung/lower lobe/left
+54.xml, Pulmonary Atelectasis/base/right/mild
+758.xml, normal
+3410.xml, Lung/hyperdistention
+3808.xml, Atherosclerosis/aorta
+2200.xml, Lung/hypoinflation
+2203.xml, Fractures, Bone/ribs/right/multiple/healed
+3128.xml, Calcinosis/lung/hilum/lymph nodes/left
+3950.xml, Catheters, Indwelling
+1053.xml, Cardiomegaly/mild
+3606.xml, normal
+2510.xml, Thoracic Vertebrae/degenerative
+2401.xml, normal
+1657.xml, normal
+3297.xml, Emphysema/mild
+1246.xml, Granulomatous Disease
+3979.xml, Aorta/tortuous/mild
+725.xml, normal
+2628.xml, Lung/hypoinflation/mild
+1641.xml, Airspace Disease/lung/lower lobe/left
+1478.xml, Calcinosis/mediastinum
+25.xml, Sutures/lung/apex/right
+1986.xml, Opacity/ribs/anterior
+3018.xml, Calcified Granuloma/lung/lingula
+433.xml, normal
+2939.xml, Surgical Instruments/abdomen/right
+3746.xml, Atherosclerosis/aorta/mild
+3755.xml, Osteophyte/thoracic vertebrae/multiple
+2381.xml, Calcified Granuloma/lung/multiple
+3067.xml, normal
+1283.xml, Calcified Granuloma/multiple
+1872.xml, Osteophyte/thoracic vertebrae/anterior/multiple
+2524.xml, Granulomatous Disease
+3012.xml, normal
+730.xml, Calcified Granuloma/lung/middle lobe/right
+3023.xml, Calcified Granuloma/lung/upper lobe/left/small
+3222.xml, normal
+1062.xml, No Indexing
+1089.xml, Aorta, Thoracic/tortuous
+2512.xml, Surgical Instruments
+3266.xml, normal
+3016.xml, Granulomatous Disease
+3617.xml, normal
+3029.xml, Cervical Vertebrae/degenerative
+492.xml, normal
+2458.xml, Thoracic Vertebrae/degenerative/mild
+2812.xml, Lung/hypoinflation
+1219.xml, normal
+368.xml, normal
+1270.xml, normal
+2669.xml, Opacity/lung/lower lobe/left/patchy/small
+2353.xml, normal
+1510.xml, normal
+674.xml, Lung/hypoinflation
+22.xml, normal
+3693.xml, normal
+268.xml, Opacity/lung/upper lobe/right
+3774.xml, Aorta/tortuous
+2303.xml, normal
+1648.xml, Lung/hyperdistention/mild
+1404.xml, Deformity/thoracic vertebrae/anterior/multiple
+2118.xml, Implanted Medical Device/left
+282.xml, normal
+1532.xml, normal
+2749.xml, Deformity/ribs/right/multiple/healed
+3170.xml, Aorta/tortuous
+106.xml, normal
+3247.xml, normal
+36.xml, normal
+1282.xml, Opacity/lung/lower lobe/right/patchy
+2890.xml, Density/adipose tissue/posterior/round/small
+872.xml, Granulomatous Disease
+904.xml, Catheters, Indwelling/left
+448.xml, normal
+985.xml, normal
+1617.xml, Calcinosis/aorta, thoracic
+3294.xml, Aorta, Thoracic/tortuous
+3391.xml, Granuloma/lung/lingula
+1228.xml, Aorta/tortuous
+1214.xml, Cicatrix/lung/lingula/focal
+961.xml, Opacity/lung/lingula/posterior
+1497.xml, Opacity/lung/lingula
+407.xml, normal
+2369.xml, Opacity/lung/base/bilateral/interstitial
+2013.xml, Pulmonary Atelectasis/upper lobe/left/mild
+3100.xml, Lung/hyperdistention
+2633.xml, Granulomatous Disease
+3963.xml, Surgical Instruments/breast/left
+2362.xml, normal
+3721.xml, Opacity/lung/base/left/streaky
+3903.xml, normal
+1123.xml, Opacity/lung/apex/right
+2175.xml, normal
+2435.xml, normal
+3202.xml, Fractures, Bone/ribs/left/posterior/multiple/healed
+811.xml, Fractures, Bone/ribs/left/healed
+967.xml, normal
+2336.xml, Lung/hyperdistention
+586.xml, Cardiomegaly/moderate
+2208.xml, Cardiomegaly
+1054.xml, Thoracic Vertebrae/degenerative/mild
+776.xml, Markings/lung/interstitial/prominent
+1665.xml, Calcified Granuloma/lung/upper lobe/left
+946.xml, normal
+2790.xml, Lung/interstitial/prominent/mild
+2639.xml, Scoliosis/thoracic vertebrae/right/mild
+2984.xml, Calcinosis/lymph nodes
+441.xml, Calcified Granuloma/lung/scattered/multiple
+2474.xml, Infiltrate/lung/lower lobe/bilateral/interstitial/patchy
+1642.xml, Thoracic Vertebrae/degenerative
+16.xml, normal
+593.xml, Thoracic Vertebrae/degenerative/severe
+1467.xml, normal
+3477.xml, normal
+3176.xml, normal
+3838.xml, Implanted Medical Device
+3293.xml, Lung/hypoinflation
+463.xml, Opacity/lung/lower lobe/left
+2776.xml, Nodule/lung/lingula
+1625.xml, Atherosclerosis/aorta
+2513.xml, Hernia, Hiatal/retrocardiac/large
+3527.xml, normal
+1981.xml, Spine/degenerative/chronic
+3028.xml, Atherosclerosis/aorta
+2136.xml, normal
+2167.xml, Lung/hyperdistention
+1487.xml, No Indexing
+2412.xml, Calcinosis/abdomen/right
+2114.xml, Technical Quality of Image Unsatisfactory 
+3312.xml, Infiltrate/lung/middle lobe/right/patchy
+512.xml, Thoracic Vertebrae/degenerative/mild
+3063.xml, normal
+3053.xml, normal
+1494.xml, Lung/hypoinflation
+3019.xml, Aorta/tortuous
+984.xml, Lung/hypoinflation
+831.xml, Lung/hypoinflation
+1717.xml, Granulomatous Disease
+701.xml, Cicatrix/thorax/left
+3453.xml, normal
+1260.xml, normal
+1451.xml, Calcified Granuloma/lung/lower lobe/left
+3418.xml, Markings/lung/interstitial/prominent
+75.xml, Atherosclerosis/aorta, thoracic
+1127.xml, Lung/hypoinflation
+2579.xml, normal
+2476.xml, Spine/degenerative
+1565.xml, Pulmonary Atelectasis/base/mild
+2586.xml, Aortic Aneurysm
+514.xml, normal
+3884.xml, Opacity/lung/bilateral/interstitial/diffuse
+2264.xml, Lung/hypoinflation
+1527.xml, Pulmonary Emphysema
+490.xml, Technical Quality of Image Unsatisfactory 
+2281.xml, normal
+3788.xml, normal
+2477.xml, Cardiomegaly
+1176.xml, normal
+3703.xml, normal
+2596.xml, normal
+747.xml, Aorta, Thoracic/tortuous
+3278.xml, Funnel Chest/mild
+2946.xml, Costophrenic Angle/right/blunted/mild
+3940.xml, Implanted Medical Device/heart
+2792.xml, normal
+2807.xml, normal
+2174.xml, normal
+531.xml, Lung/left/hyperdistention
+1820.xml, Diaphragmatic Eventration/right
+3326.xml, Technical Quality of Image Unsatisfactory 
+2201.xml, Calcified Granuloma/lung/bilateral/multiple
+2952.xml, Lung/hypoinflation/mild
+1051.xml, normal
+434.xml, Calcinosis/aorta
+3814.xml, normal
+2689.xml, Calcified Granuloma/multiple
+1702.xml, Cardiomegaly/borderline
+1898.xml, Cardiac Shadow/enlarged/severe
+1863.xml, Cardiomegaly/mild
+1343.xml, Cardiomegaly/mild
+868.xml, Lung/hyperdistention
+356.xml, normal
+3009.xml, Thoracic Vertebrae/degenerative
+877.xml, Surgical Instruments/mediastinum
+464.xml, Diaphragmatic Eventration/right
+3102.xml, normal
+1668.xml, Nodule/lung/lower lobe/right/anterior
+3025.xml, normal
+3618.xml, Pulmonary Emphysema
+3341.xml, normal
+1383.xml, Opacity/lung/middle lobe/right
+1948.xml, normal
+1328.xml, Calcified Granuloma/lung/left
+1090.xml, normal
+3226.xml, Spondylosis/thoracic vertebrae
+574.xml, Aorta/tortuous
+480.xml, normal
+1340.xml, normal
+3245.xml, Pulmonary Edema/bilateral/interstitial/moderate
+1144.xml, normal
+1485.xml, Opacity/lung/base/bilateral
+2954.xml, Lung/base/bilateral/obscured
+2937.xml, normal
+1196.xml, Atherosclerosis/aorta
+1807.xml, Cardiomegaly/mild
+879.xml, normal
+3246.xml, Pulmonary Artery/prominent
+588.xml, normal
+2584.xml, normal
+2789.xml, Aorta/tortuous/mild
+3131.xml, normal
+3122.xml, normal
+3697.xml, Pulmonary Fibrosis/right/severe
+570.xml, normal
+2533.xml, normal
+964.xml, normal
+314.xml, Lung/hypoinflation
+1609.xml, Calcinosis/lymph nodes/bilateral
+3498.xml, Fractures, Bone/ribs/right
+3022.xml, Cavitation/lung/bilateral/multiple
+3091.xml, Cardiomegaly/mild
+3725.xml, Calcified Granuloma/lung/upper lobe/right
+3167.xml, normal
+830.xml, Thickening/pleura/right/mild
+1058.xml, Nodule/lung/bilateral/diffuse/multiple/small
+3715.xml, Infiltrate/lung/lingula/focal/round/small
+1034.xml, Calcified Granuloma/lung/middle lobe/right
+1336.xml, Implanted Medical Device/left
+2647.xml, Foreign Bodies/posterior
+1746.xml, normal
+2642.xml, Tube, Inserted/trachea
+2316.xml, normal
+3945.xml, Pneumothorax/left
+2350.xml, Thoracic Vertebrae/degenerative/mild
+788.xml, Fractures, Bone/ribs/right
+2699.xml, normal
+1302.xml, Aorta/tortuous
+640.xml, Calcinosis/blood vessels
+997.xml, Calcinosis/mediastinum
+1907.xml, normal
+1363.xml, normal
+1735.xml, Surgical Instruments/mediastinum
+3056.xml, Pleural Effusion/right/moderate
+3198.xml, Osteophyte/thoracic vertebrae/degenerative/mild
+1663.xml, normal
+2374.xml, normal
+3853.xml, Cardiomegaly/mild
+3962.xml, normal
+3031.xml, normal
+281.xml, normal
+1392.xml, No Indexing
+1295.xml, Lung/hypoinflation
+3842.xml, Lung/hypoinflation
+3873.xml, Opacity/lung/middle lobe/right/round
+66.xml, normal
+1933.xml, Aorta/tortuous
+3600.xml, Cicatrix/lung/base/right
+642.xml, normal
+896.xml, normal
+328.xml, normal
+3396.xml, Pleural Effusion/left
+3674.xml, normal
+3576.xml, normal
+1268.xml, Aorta, Thoracic/tortuous
+2027.xml, Nodule/lung/lingula
+1379.xml, normal
+2652.xml, Calcinosis/mediastinum/lymph nodes
+402.xml, No Indexing
+3726.xml, normal
+1806.xml, No Indexing
+1085.xml, Lung/hypoinflation
+3831.xml, normal
+2648.xml, Cardiomegaly/borderline
+978.xml, Cardiomegaly/mild
+3977.xml, Aorta, Thoracic/tortuous
+1972.xml, Opacity/lung/upper lobe/left
+2839.xml, normal
+1883.xml, Surgical Instruments/abdomen/right
+2230.xml, normal
+602.xml, normal
+555.xml, Thoracic Vertebrae/degenerative
+1416.xml, Lung/hilum/bilateral/prominent/mild
+1489.xml, normal
+1896.xml, normal
+78.xml, Pulmonary Atelectasis/base/left/mild
+1222.xml, No Indexing
+3760.xml, Aorta, Thoracic/tortuous
+3902.xml, No Indexing
+2087.xml, normal
+2272.xml, Calcified Granuloma/multiple
+2509.xml, Lung/hyperdistention
+530.xml, Cardiomegaly/mild
+3582.xml, normal
+458.xml, No Indexing
+2605.xml, normal
+847.xml, Cardiomegaly/mild
+260.xml, Medical Device/thorax/left
+551.xml, Lung/hyperdistention
+2237.xml, Calcified Granuloma/lung/lingula
+3449.xml, Medical Device
+2460.xml, normal
+813.xml, Lung/hypoinflation
+3665.xml, normal
+1999.xml, normal
+1208.xml, Thoracic Vertebrae/degenerative/mild
+270.xml, normal
+2332.xml, normal
+3971.xml, normal
+1802.xml, normal
+1061.xml, Deformity/thoracic vertebrae/mild
+1708.xml, Calcinosis/lung/hilum/lymph nodes/left
+1781.xml, Thoracic Vertebrae/degenerative/mild
+3898.xml, No Indexing
+2595.xml, normal
+851.xml, Lung/hypoinflation
+196.xml, normal
+222.xml, normal
+1068.xml, normal
+2622.xml, Tube, Inserted/trachea, carina
+617.xml, Spine/degenerative
+51.xml, Calcified Granuloma/lung/bilateral/scattered
+2588.xml, Density/lung/base/left/round
+2565.xml, Aorta/tortuous
+3123.xml, Cardiomegaly/mild
+659.xml, Aorta/tortuous
+733.xml, Catheters, Indwelling/right
+3366.xml, No Indexing
+2251.xml, normal
+1503.xml, normal
+2096.xml, normal
+277.xml, Cicatrix/lung/apex/bilateral/mild
+3491.xml, Aorta, Thoracic/prominent
+1187.xml, Opacity/lung/base/bilateral
+3677.xml, Aorta/tortuous
+3403.xml, normal
+380.xml, Medical Device/thorax
+3231.xml, Aorta, Thoracic/tortuous
+2973.xml, Airspace Disease/lung/middle lobe/right
+1688.xml, normal
+2275.xml, Nodule/lung/middle lobe/right
+1568.xml, Lung/hypoinflation
+1711.xml, Diaphragmatic Eventration/left
+1105.xml, Cardiomegaly/mild
+3395.xml, normal
+2583.xml, normal
+3829.xml, Cardiomegaly/moderate
+2143.xml, Lung/hyperdistention
+3094.xml, Lung/hypoinflation
+3138.xml, normal
+3160.xml, Spine/degenerative
+3229.xml, Lung/hypoinflation/mild
+2766.xml, Cardiomegaly/moderate
+2818.xml, Cavitation/lung/apex/right
+1788.xml, normal
+2747.xml, Pleural Effusion/bilateral/small
+2056.xml, normal
+3925.xml, Calcinosis/lung/hilum/lymph nodes/right
+3340.xml, Atherosclerosis/aorta
+2884.xml, Surgical Instruments/mediastinum
+2723.xml, Pulmonary Atelectasis/base/left
+3378.xml, Pneumothorax/apex/right/moderate
+1897.xml, Deformity/thorax
+18.xml, Pleural Effusion/borderline
+2976.xml, Lung/hyperdistention
+190.xml, normal
+2819.xml, Surgical Instruments/mediastinum
+1533.xml, normal
+1703.xml, Lung/hypoinflation/mild
+1072.xml, Aorta/tortuous
+3792.xml, normal
+2380.xml, Diaphragm/left/elevated
+1979.xml, normal
+2282.xml, normal
+1317.xml, Pulmonary Atelectasis/base/left/mild
+422.xml, Calcified Granuloma/lung/left
+349.xml, Cardiomegaly
+1402.xml, normal
+3523.xml, Surgical Instruments/right
+1873.xml, Thoracic Vertebrae/degenerative
+1963.xml, normal
+2763.xml, Markings/lung/interstitial/prominent/mild
+3062.xml, Costophrenic Angle/left/blunted/mild
+2452.xml, Hernia, Hiatal
+3203.xml, normal
+189.xml, Opacity/lung/apex/right/focal
+3581.xml, Pectus Carinatum
+3732.xml, Calcinosis/lung/hilum/lymph nodes/left
+1552.xml, Lung/hypoinflation
+2431.xml, Calcinosis/lymph nodes
+1782.xml, Granulomatous Disease
